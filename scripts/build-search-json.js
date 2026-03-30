@@ -9,8 +9,8 @@ const OUTPUT_FILE = path.join(OUTPUT_DIR, 'search-data.json');
 function splitPipe(value) {
   if (!value) return [];
   return String(value)
-    .split('|')
-    .map((v) => v.trim())
+    .split(/[|,·\/]/)   
+    .map(v => v.trim())
     .filter(Boolean);
 }
 
