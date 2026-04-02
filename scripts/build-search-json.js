@@ -3,7 +3,7 @@ const path = require("path");
 const { google } = require("googleapis");
 
 const SHEET_ID = process.env.GOOGLE_SHEET_ID || "1ekbwT7okBC477cjeZwZWCgXqsTM6Gg-Xyez6YGEshNQ";
-const SHEET_NAME = process.env.GOOGLE_SHEET_NAME || "통합";
+const SHEET_NAME = process.env.GOOGLE_SHEET_NAME || "resources";
 
 const DOCS_DIR = path.join(__dirname, "..", "docs");
 
