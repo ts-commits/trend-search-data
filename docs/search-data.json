@@ -1,6 +1,5 @@
 [
   {
-    "id": "market-001",
     "title": "2025 방송통신광고비조사 보고서",
     "source": "코바코",
     "url": "https://www.kobaco.co.kr/site/adstat/board/broadcastprice/1291?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&bcId=broadcastprice&baNotice=false&baCommSelec=false&baOpenDay=true&baUse=true",
@@ -29,7 +28,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-002",
     "title": "한국광고총연합회 광고정보센터 매거진",
     "source": "한국광고총연합회",
     "url": "https://www.adic.or.kr/journal/column/list.do",
@@ -54,7 +52,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-003",
     "title": "ADZ 광고계동향",
     "source": "광고정보센터",
     "url": "https://www.adic.or.kr/lit/journal/getJournal.do?sourceUkey=1",
@@ -79,7 +76,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-004",
     "title": "오픈애즈",
     "source": "오픈애즈",
     "url": "https://www.openads.co.kr/home",
@@ -104,7 +100,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-005",
     "title": "아이보스",
     "source": "아이보스",
     "url": "https://www.i-boss.co.kr/",
@@ -129,7 +124,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-006",
     "title": "제일기획 블로그",
     "source": "제일기획 블로그",
     "url": "https://blog.cheil.com/",
@@ -154,7 +148,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-007",
     "title": "방송통신광고통계시스템",
     "source": "코바코",
     "url": "https://adstat.kobaco.co.kr/sub/kai_data_search.do",
@@ -181,7 +174,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-008",
     "title": "광고경기전망지수(KAI)",
     "source": "광고통계시스템",
     "url": "https://www.kobaco.co.kr/site/adstat/board/kai_report",
@@ -208,7 +200,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-009",
     "title": "KAA저널",
     "source": "한국광고주협회",
     "url": "https://www.kaa.or.kr/sub05/sub05_1_2.html",
@@ -233,7 +224,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-010",
     "title": "칸타",
     "source": "칸타",
     "url": "https://www.kantar.co.kr/index.php?module=Board&action=SiteBoard&sMode=SELECT_FORM&iBrdNo=1",
@@ -260,7 +250,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-011",
     "title": "미디어 이슈&트렌드",
     "source": "한국방송통신전파진흥원",
     "url": "https://www.kca.kr/boardList.do?boardId=TRENDS&pageId=www145",
@@ -287,7 +276,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-012",
     "title": "트렌드와칭",
     "source": "트렌드와칭",
     "url": "https://trendw.kr/",
@@ -314,7 +302,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-013",
     "title": "블로터",
     "source": "블로터",
     "url": "https://www.bloter.net/",
@@ -339,7 +326,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-014",
     "title": "브랜드브리프",
     "source": "브랜드브리프",
     "url": "http://www.brandbrief.co.kr/",
@@ -364,7 +350,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-015",
     "title": "The PR",
     "source": "The PR",
     "url": "http://www.the-pr.co.kr/",
@@ -389,7 +374,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-016",
     "title": "매드타임즈",
     "source": "매드타임즈",
     "url": "http://www.madtimes.org/",
@@ -416,7 +400,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-017",
     "title": "센서타워",
     "source": "센서타워",
     "url": "https://sensortower.com/ko/blog",
@@ -444,7 +427,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-018",
     "title": "앱스플라이어 리소스센터",
     "source": "앱스플라이어",
     "url": "https://www.appsflyer.com/kr/resources/",
@@ -471,7 +453,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-019",
     "title": "앱스플라이어 블로그",
     "source": "앱스플라이어",
     "url": "https://www.appsflyer.com/kr/blog/",
@@ -498,7 +479,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-020",
     "title": "KPMG Insight",
     "source": "KPMG",
     "url": "https://home.kpmg/kr/ko/home/insights.html",
@@ -525,7 +505,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-021",
     "title": "증권사별 자료 모음",
     "source": "네이버페이 증권",
     "url": "https://finance.naver.com/research/industry_list.nhn?&page=2",
@@ -550,7 +529,6 @@
     "updatedAt": "2026-03-20"
   },
   {
-    "id": "market-022",
     "title": "닐슨 글로벌",
     "source": "닐슨",
     "url": "https://www.nielsen.com/us/en/insights/",
@@ -569,7 +547,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "market-023",
     "title": "IPG MEDIA LAB 글로벌",
     "source": "IPG MEDIA LAB",
     "url": "https://medium.com/ipg-media-lab",
@@ -588,7 +565,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "market-024",
     "title": "IAB 글로벌",
     "source": "IAB",
     "url": "https://www.iab.com/",
@@ -607,7 +583,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "market-025",
     "title": "한국콘텐츠진흥원 해외산업정보",
     "source": "한국콘텐츠진흥원",
     "url": "https://www.kocca.kr/kocca/bbs/list/B0158950.do?menuNo=204160",
@@ -627,7 +602,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "market-026",
     "title": "코트라 해외시장뉴스",
     "source": "코트라",
     "url": "https://dream.kotra.or.kr/kotranews/cms/com/index.do?MENU_ID=70",
@@ -647,7 +621,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "market-027",
     "title": "DIGITAL IN 2026 디지털 미디어 이용 동향 보고서",
     "source": "We Are Social",
     "url": "https://wearesocial.com/uk/blog/2025/10/digital-2026-global-overview-report/",
@@ -667,7 +640,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "market-028",
     "title": "GlobalWebIndex",
     "source": "GlobalWebIndex",
     "url": "https://blog.globalwebindex.com/",
@@ -687,7 +659,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "market-029",
     "title": "eMarketer",
     "source": "eMarketer",
     "url": "https://www.emarketer.com/",
@@ -707,7 +678,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "market-030",
     "title": "TechCrunch",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/",
@@ -727,7 +697,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "market-031",
     "title": "The Verge",
     "source": "The Verge",
     "url": "https://www.theverge.com/",
@@ -747,7 +716,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "market-032",
     "title": "WARC",
     "source": "WARC",
     "url": "https://www.warc.com/en",
@@ -767,7 +735,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "market-033",
     "title": "Adweek",
     "source": "Adweek",
     "url": "https://www.adweek.com/",
@@ -787,7 +754,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "market-034",
     "title": "Ad Age",
     "source": "Ad Age",
     "url": "https://adage.com/",
@@ -807,7 +773,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "market-035",
     "title": "DIGIDAY",
     "source": "DIGIDAY",
     "url": "https://digiday.com/",
@@ -827,7 +792,6 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "id": "user-001",
     "title": "방송매체 이용행태 조사 보고서",
     "source": "방송미디어통신위원회 방송통계포털",
     "url": "https://www.mediastat.or.kr/kor/board/BoardList.html?rootId=2010002&searchType=subject&srcContDate=SEARCH&pageIndex=1&board_class=BOARD21&menuId=2010118&lastIndex=6&srcContClass=RPT0002",
@@ -852,7 +816,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-002",
     "title": "오픈서베이 트렌드리포트",
     "source": "오픈서베이",
     "url": "https://opensurvey.io/ko",
@@ -877,7 +840,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-003",
     "title": "트렌드모니터",
     "source": "엠브레인 트렌드모니터",
     "url": "https://www.trendmonitor.co.kr/tmweb/main.do",
@@ -902,7 +864,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-004",
     "title": "대학내일 20대 연구소",
     "source": "대학내일",
     "url": "https://www.20slab.org/",
@@ -925,7 +886,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-005",
     "title": "캐릿",
     "source": "대학내일",
     "url": "https://www.careet.net/",
@@ -950,7 +910,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-006",
     "title": "갤럽 통계자료",
     "source": "갤럽",
     "url": "https://www.gallup.co.kr/gallupdb/main.asp",
@@ -973,7 +932,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-007",
     "title": "2025 한국 부자 보고서",
     "source": "KB 금융 경영연구소",
     "url": "https://www.kbfg.com/kbresearch/report/reportView.do?reportId=2000551",
@@ -996,7 +954,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-008",
     "title": "네이버 데이터랩",
     "source": "네이버",
     "url": "https://datalab.naver.com/",
@@ -1019,7 +976,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-009",
     "title": "구글 트렌드",
     "source": "구글",
     "url": "https://trends.google.co.kr/trends/?geo=KR",
@@ -1042,7 +998,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-010",
     "title": "구글 2025 올해의 검색어",
     "source": "구글",
     "url": "https://trends.withgoogle.com/ko/year-in-search/2025/kr/?hl=ko",
@@ -1065,7 +1020,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-011",
     "title": "Keyword Tool",
     "source": "Keyword Tool",
     "url": "https://keywordtool.io/youtube",
@@ -1090,7 +1044,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-012",
     "title": "브라우저 점유율",
     "source": "차세대 웹기술 지원센터",
     "url": "https://www.koreanextweb.kr/front/stats/browser/browserUseStats.do",
@@ -1113,7 +1066,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-013",
     "title": "statcounter",
     "source": "statcounter",
     "url": "https://gs.statcounter.com/browser-market-share/desktop/south-korea",
@@ -1138,7 +1090,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-014",
     "title": "온라인쇼핑동향조사",
     "source": "통계청",
     "url": "https://kostat.go.kr/statDesc.es?act=view&mid=a10501010000&sttr_cd=S009007",
@@ -1164,7 +1115,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-015",
     "title": "KOSIS 국가통계포털",
     "source": "국가통계포털",
     "url": "https://kosis.kr/index/index.do",
@@ -1190,7 +1140,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "user-016",
     "title": "2025 통계로 보는 남녀의 삶",
     "source": "여성가족부",
     "url": "https://www.mogef.go.kr/nw/rpd/nw_rpd_s001d.do?mid=news405&bbtSn=710602",
@@ -1216,7 +1165,6 @@
     "updatedAt": "2026-03-24"
   },
   {
-    "id": "item-001",
     "title": "네이버광고주센터",
     "source": "네이버",
     "url": "https://displayad.naver.com/info/notice",
@@ -1234,7 +1182,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-002",
     "title": "네이버광고주센터",
     "source": "네이버",
     "url": "https://displayad.naver.com/stories",
@@ -1252,7 +1199,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-003",
     "title": "네이버 공식 블로그",
     "source": "네이버",
     "url": "https://blog.naver.com/naver_diary",
@@ -1270,7 +1216,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-004",
     "title": "카카오 비즈니스",
     "source": "카카오",
     "url": "https://business.kakao.com/",
@@ -1288,7 +1233,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-005",
     "title": "메타 비즈니스 성공사례",
     "source": "메타",
     "url": "https://ko-kr.facebook.com/business/campaign-guidance-navigator",
@@ -1306,7 +1250,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-006",
     "title": "메타 비즈니스 뉴스",
     "source": "메타",
     "url": "https://www.facebook.com/business/news",
@@ -1324,7 +1267,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-007",
     "title": "메타 비즈니스 업종별 가이드",
     "source": "메타",
     "url": "https://www.facebook.com/business/industries",
@@ -1350,7 +1292,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-008",
     "title": "인스타그램 사례 연구",
     "source": "메타",
     "url": "https://business.instagram.com/success/?#insights",
@@ -1368,7 +1309,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-009",
     "title": "구글 도움말 센터",
     "source": "구글",
     "url": "https://support.google.com/google-ads/announcements/9048695?",
@@ -1386,7 +1326,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-010",
     "title": "Think with Google",
     "source": "구글",
     "url": "https://www.thinkwithgoogle.com/",
@@ -1404,7 +1343,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-011",
     "title": "유튜브랭크",
     "source": "유튜브랭크",
     "url": "https://youtube-rank.com/board/?mid=home",
@@ -1422,7 +1360,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-012",
     "title": "틱톡 뉴스룸",
     "source": "틱톡",
     "url": "https://newsroom.tiktok.com/ko-kr",
@@ -1440,7 +1377,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-013",
     "title": "socialblade",
     "source": "socialblade",
     "url": "https://socialblade.com/youtube/lists/top/50/sb/all/global",
@@ -1458,7 +1394,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-001",
     "title": "2025 데이터 총결산",
     "source": "대학내일 20대연구소",
     "url": "https://www.20slab.org/archives/39012?categoryID=-1&TargetSubject=&headerType=&listType=list&headerID=0&isDate=False&date=&query=&pageidx=1",
@@ -1477,7 +1412,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-002",
     "title": "Z세대가 직접 정의하는 2025 Z세대 트렌드",
     "source": "대학내일 20대연구소",
     "url": "https://www.20slab.org/archives/38957?categoryID=-1&TargetSubject=&headerType=&listType=list&headerID=0&isDate=False&date=&query=&pageidx=1",
@@ -1496,7 +1430,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-003",
     "title": "2026년 모바일 현황 보고서",
     "source": "센서타워",
     "url": "https://sensortower.com/report/state-of-mobile-2026/download",
@@ -1517,7 +1450,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-004",
     "title": "2026 AI 에이전트 시대 : 크리테오가 바라보는 미래와 광고전략",
     "source": "크리테오",
     "url": "https://www.criteo.com/kr/blog/reshaping-advertising-strategy-in-the-ai-agent-era/",
@@ -1536,7 +1468,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-005",
     "title": "연말 결산 리스트로 돌아본 2025년 한국 유튜브 트렌드",
     "source": "Youtube Official Blog",
     "url": "https://blog.youtube/intl/ko-kr/culture-and-trends/year-on-youtube-2025-korea/",
@@ -1555,7 +1486,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-006",
     "title": "2026년 AI트랜스포메이션 트렌드 분석 보고서",
     "source": "디지털트랜스포메이션",
     "url": "https://digitaltransformation.co.kr/2026%eb%85%84-ai%ed%8a%b8%eb%9e%9c%ec%8a%a4%ed%8f%ac%eb%a9%94%ec%9d%b4%ec%85%98-%ed%8a%b8%eb%a0%8c%eb%93%9cai-transformation-trend%eb%b6%84%ec%84%9d-%eb%b3%b4%ea%b3%a0%ec%84%9c/",
@@ -1574,7 +1504,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-007",
     "title": "2026 인플루언서 마케팅 트렌드를 전망하다 : S.I.M.P.A.C.T",
     "source": "피처링",
     "url": "https://blog.featuring.co/trend_report/2c5d85dd-3de2-8098-a41f-e04d7f15146e",
@@ -1593,7 +1522,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-008",
     "title": "10 Influencer Marketing Stats You Need to Know in 2026",
     "source": "아스파이어",
     "url": "https://www.aspire.io/blog/10-influencer-marketing-stats",
@@ -1614,7 +1542,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-001",
     "title": "2026 소비 트렌드 HORSE POWER",
     "source": "트렌드 코리아",
     "url": "https://blog.naver.com/miraebookjoa/224022673004",
@@ -1632,7 +1559,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-002",
     "title": "틴더 2025 데이팅 트렌드 연말결산 Year in Swipe 2025",
     "source": "틴더",
     "url": "https://kr.tinderpressroom.com/tinder_YIS2025",
@@ -1650,7 +1576,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-003",
     "title": "2026년 주목할 만한 소비 트렌드 키워드 WISE UP",
     "source": "신한카드",
     "url": "https://www.shinhancardblog.com/1410",
@@ -1668,7 +1593,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-004",
     "title": "2025 우리금융 트렌드 보고서 AI시대의 시니어 라이프",
     "source": "우리금융경영연구소",
     "url": "https://www.woorifg.com/kor/pr/financial-report/list.do",
@@ -1686,7 +1610,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-005",
     "title": "2026년 글로벌 소비자 트렌드",
     "source": "유로모니터",
     "url": "https://www.euromonitor.com/newsroom/press-releases/november-2025/%EC%9C%A0%EB%A1%9C%EB%AA%A8%EB%8B%88%ED%84%B0-2026%EB%85%84-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%86%8C%EB%B9%84%EC%9E%90-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EB%B0%9C%ED%91%9C",
@@ -1706,7 +1629,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-006",
     "title": "2026 신용카드 키워드 PIVOT",
     "source": "카드고릴라",
     "url": "https://www.card-gorilla.com/contents/detail/4113",
@@ -1724,7 +1646,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-007",
     "title": "2026 마켓 트렌드",
     "source": "한국경제신문",
     "url": "https://magazine.hankyung.com/business/article/202510162888b",
@@ -1742,7 +1663,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-008",
     "title": "2026년 국내 경제·산업 전망",
     "source": "삼정 KPMG",
     "url": "https://assets.kpmg.com/content/dam/kpmgsites/kr/pdf/2025/eri/business_focus/%EC%82%BC%EC%A0%95KPMG-2026%EB%85%84-%EA%B2%BD%EC%A0%9C-%EB%B0%8F-%EC%82%B0%EC%97%85-%EC%A0%84%EB%A7%9D-20251204.pdf.coredownload.inline.pdf",
@@ -1760,7 +1680,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-001",
     "title": "2025 대한민국 게임백서",
     "source": "한국콘텐츠진흥원",
     "url": "https://www.kocca.kr/kocca/bbs/view/B0000146/2011091.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useYn=&menuNo=204154&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&ufSetting=&recovery=&option1=&option2=&year=&morePage=&qtp=&domainId=&sortCode=&pageIndex=1",
@@ -1778,7 +1697,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-002",
     "title": "2025 게임이용자 실태조사",
     "source": "한국콘텐츠진흥원",
     "url": "https://www.kocca.kr/shortUrl/fzBq",
@@ -1796,7 +1714,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-003",
     "title": "2025 이스포츠 실태조사",
     "source": "한국콘텐츠진흥원",
     "url": "https://www.kocca.kr/shortUrl/dyBq",
@@ -1814,7 +1731,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-004",
     "title": "글로벌 게임산업 트렌드",
     "source": "한국콘텐츠진흥원",
     "url": "https://www.kocca.kr/kocca/global/list.do?menuNo=205098",
@@ -1834,7 +1750,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-005",
     "title": "게임 산업의 글로벌 동향과 기회",
     "source": "삼일회계법인",
     "url": "https://www.pwc.com/kr/ko/insights/industry-focus/samilpwc_game-business-global-trend.pdf",
@@ -1854,7 +1769,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-006",
     "title": "업계를 뒤흔들다: 2025년 업계를 선도하는 모바일 게임 트렌드 7가지",
     "source": "미스트플레이",
     "url": "https://ko.business.mistplay.com/resources/mobile-gaming-trends-2025",
@@ -1874,7 +1788,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-007",
     "title": "2026 게임 마케팅 트렌드 : 상반기 주요 신작 정리",
     "source": "포스타입",
     "url": "https://openads.co.kr/content/contentDetail?contsId=18607",
@@ -1892,7 +1805,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-008",
     "title": "게임 산업 10대 트렌드로 본 혁신과 변화",
     "source": "삼정KPMG",
     "url": "https://assets.kpmg.com/content/dam/kpmgsites/kr/pdf/2025/eri/business_focus/%EC%82%BC%EC%A0%95KPMG-%EA%B2%8C%EC%9E%84-%EC%82%B0%EC%97%85-10%EB%8C%80-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%A1%9C-%EB%B3%B8-%ED%98%81%EC%8B%A0%EA%B3%BC-%EB%B3%80%ED%99%94-20250619.pdf.coredownload.inline.pdf",
@@ -1910,7 +1822,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-009",
     "title": "PC콘솔 게임 시장: 핵심 사용자 분석 리포트",
     "source": "모바일인덱스",
     "url": "https://insight-report.mobileindex.com/post/game-coreaudience",
@@ -1928,46 +1839,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-010",
-    "title": "Video Gaming Report 2026",
-    "source": "BCG",
-    "url": "https://www.bcg.com/publications/2025/video-gaming-report-2026-next-era-of-growth?utm_source=chatgpt.com",
-    "type": "보고서",
-    "category": "업종 트렌드_게임",
-    "summary": "포스트 코로나 침체 이후 게임 산업이 다시 성장 국면에 진입하며, AI·클라우드·UGC·플랫폼 통합 등 구조 변화가 향후 10년 게임 생태계를 어떻게 재편할지를 분석한 글로벌 전략 보고서입니다.",
-    "tags": [
-      "글로벌"
-    ],
-    "keywords": [
-      "게임 산업",
-      "글로벌 게임",
-      "AI",
-      "클라우드",
-      "UGC",
-      "플랫폼 통합"
-    ],
-    "updatedAt": "2026-03-27"
-  },
-  {
-    "id": "item-011",
-    "title": "센서타워 블로그_게임",
-    "source": "센서타워",
-    "url": "https://sensortower.com/ko/blog?query=%EA%B2%8C%EC%9E%84",
-    "type": "아티클",
-    "category": "업종 트렌드_게임",
-    "summary": "센서타워 블로그에서 한국을 포함한 주요 국가의 인기 게임 성과와 퍼블리셔 순위, 장르별 시장 전망 등을 확인할 수 있습니다.",
-    "tags": [],
-    "keywords": [
-      "게임",
-      "게임 트렌드",
-      "게임 앱",
-      "게임 앱 성과",
-      "인기 게임"
-    ],
-    "updatedAt": "2026-03-27"
-  },
-  {
-    "id": "item-001",
     "title": "칸타 월드패널",
     "source": "칸타 월드패널",
     "url": "https://market.worldpanelbynumerator.com/kr",
@@ -1988,7 +1859,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-002",
     "title": "온라인 쇼핑 동향",
     "source": "통계청",
     "url": "https://kostat.go.kr/statDesc.es?act=view&mid=a10501010000&sttr_cd=S009007",
@@ -2008,7 +1878,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-003",
     "title": "2026 유통산업 전망 세미나",
     "source": "대한상공회의소",
     "url": "https://www.korcham.net/nCham/Service/Economy/appl/KcciReportDetail.asp?SEQ_NO_C010=20120943794&CHAM_CD=B001",
@@ -2026,7 +1895,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-004",
     "title": "2026 유통산업 전망 조사",
     "source": "대한상공회의소",
     "url": "https://www.korcham.net/nCham/Service/Economy/appl/KcciReportDetail.asp?SEQ_NO_C010=20120943894&CHAM_CD=B001",
@@ -2044,7 +1912,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-005",
     "title": "편의점 트렌드 리포트 2026",
     "source": "오픈서베이",
     "url": "https://docs.opensurvey.co.kr/report/opensurvey-trend-cvs-2026.pdf",
@@ -2065,7 +1932,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-001",
     "title": "The외식",
     "source": "The외식",
     "url": "https://www.atfis.or.kr/fip/front/index.do",
@@ -2083,7 +1949,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-002",
     "title": "2026 외식트렌드 가성비 & 가치비",
     "source": "The외식",
     "url": "https://www.atfis.or.kr/fip/front/M000000266/board/view.do;jsessionid=3697857DE77CCEC6694E2FCA33E435BF?articleId=5211",
@@ -2101,7 +1966,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-003",
     "title": "식품소비행태조사",
     "source": "한국농촌경제연구원",
     "url": "https://www.krei.re.kr/foodSurvey/index.do",
@@ -2119,7 +1983,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-004",
     "title": "식품산업통계정보",
     "source": "식품산업통계정보",
     "url": "https://www.atfis.or.kr/home/index.do",
@@ -2137,7 +2000,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-005",
     "title": "aTFIS 식품시장 뉴스레터",
     "source": "식품산업통계정보",
     "url": "http://www.kamis.co.kr/customer/inform/commonsense/eat.do?action=list&search_option=&search_keyword=&pagenum=1",
@@ -2155,7 +2017,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-006",
     "title": "식품의약품 산업동향통계",
     "source": "식품의약품안전처",
     "url": "https://www.mfds.go.kr/brd/m_382/view.do?seq=30878&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
@@ -2175,7 +2036,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-007",
     "title": "2025 식품의약품 통계연보",
     "source": "식품의약품안전처",
     "url": "https://www.mfds.go.kr/brd/m_371/view.do?seq=30724&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
@@ -2193,7 +2053,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-008",
     "title": "2026 식품외식산업 전망대회 1일차 강연자료",
     "source": "식품산업통계정보",
     "url": "https://atfis.or.kr/home/board/FB0017.do?act=read&subSkinYn=N&bpoId=5753&bcaId=0&pageIndex=1",
@@ -2212,7 +2071,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-009",
     "title": "2026 식품외식산업 전망대회 2일차 강연자료",
     "source": "식품산업통계정보",
     "url": "https://atfis.or.kr/home/board/FB0017.do?act=read&subSkinYn=N&bpoId=5755&bcaId=0&pageIndex=1",
@@ -2231,7 +2089,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-010",
     "title": "2026 식품외식산업 전망 요약 기사",
     "source": "식품외식경제",
     "url": "https://www.foodbank.co.kr/news/articleView.html?idxno=67010",
@@ -2247,7 +2104,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-011",
     "title": "2026 외식업트렌드와 가게 생존 전략",
     "source": "배민외식업광장",
     "url": "https://ceo.baemin.com/knowhow/14251?one_depth=%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8&two_depth=%EC%A0%84%EC%B2%B4",
@@ -2265,7 +2121,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-012",
     "title": "건강은 습관, 건강기능식품은 선택인 시대 : 2025 소비 트렌드 분석",
     "source": "오픈서베이",
     "url": "https://blog.opensurvey.co.kr/article/health-supplement-2025-2/",
@@ -2285,7 +2140,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-013",
     "title": "고물가 시대, 가격에 더 민감해진 소비자: 달라진 선택 기준으로 본 온라인 식료품 트렌드",
     "source": "오픈서베이",
     "url": "https://blog.opensurvey.co.kr/article/online-grocery-2026-2/",
@@ -2305,7 +2159,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-014",
     "title": "K-음료, Zero or More 리포트",
     "source": "삼일PwC",
     "url": "https://www.pwc.com/kr/ko/insights/industry-focus/samilpwc_k-beverage-zero-or-more.pdf",
@@ -2323,7 +2176,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-015",
     "title": "2025 주류 음용 및 술(사케) 관련 U&A 조사",
     "source": "트렌드모니터",
     "url": "https://www.trendmonitor.co.kr/tmweb/trend/allTrend/detail.do?bIdx=3258&code=0301&trendType=CKOREA&prevMonth=&currentPage=1",
@@ -2343,7 +2195,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-016",
     "title": "2025 편의점 이용 및 콜라보레이션 제품 관련 U&A 조사",
     "source": "트렌드모니터",
     "url": "https://trendmonitor.co.kr/tmweb/trend/allTrend/detail.do?bIdx=3237&code=0201&trendType=CKOREA&prevMonth=&currentPage=1",
@@ -2363,7 +2214,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-017",
     "title": "2025 로코노미 활용 식품 관련 U&A 조사",
     "source": "트렌드모니터",
     "url": "https://trendmonitor.co.kr/tmweb/trend/allTrend/detail.do?bIdx=3237&code=0201&trendType=CKOREA&prevMonth=&currentPage=1",
@@ -2383,115 +2233,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-018",
-    "title": "K-음료, Zero or More 리포트",
-    "source": "삼일PwC",
-    "url": "https://www.pwc.com/kr/ko/insights/industry-focus/samilpwc_k-beverage-zero-or-more.pdf",
-    "type": "보고서",
-    "category": "업종 트렌드_식음료",
-    "summary": "국내 음료 시장의 핵심 트렌드를 '3無(제로·디카페인·무알코올)'와 '3有(기능성·세분화·친환경)'로 정의하고, 웰니스 중심의 시장 변화와 K-음료의 글로벌 확장 전략을 확인할 수 있는 자료입니다.",
-    "tags": [],
-    "keywords": [
-      "제로 음료",
-      "디카페인",
-      "무알코올",
-      "기능성 음료",
-      "K음료"
-    ],
-    "updatedAt": "2026-03-27"
-  },
-  {
-    "id": "item-019",
-    "title": "커피 음용 및 디카페인 커피 관련 U&A 조사",
-    "source": "트렌드모니터",
-    "url": "https://www.trendmonitor.co.kr/tmweb/trend/allTrend/detail.do?bIdx=3271&code=0301&trendType=CKOREA&prevMonth=&currentPage=1",
-    "type": "보고서",
-    "category": "업종 트렌드_식음료",
-    "summary": "카페인 과잉 섭취에 부담을 느끼는 소비자들이 늘어남에 따라 급성장 중인 디카페인 커피 시장의 이용 행태와 선호도를 분석한 자료입니다.",
-    "tags": [
-      "설문조사"
-    ],
-    "keywords": [
-      "디카페인 커피",
-      "커피 소비",
-      "카페인",
-      "커피 시장",
-      "음료 트렌드"
-    ],
-    "updatedAt": "2026-03-27"
-  },
-  {
-    "id": "item-020",
-    "title": "10년간 K-푸드 수출 동향과 시사점",
-    "source": "대한상공회의소",
-    "url": "https://www.korcham.net/new_pdf/target//(3%EC%9B%94%206%EC%9D%BC%EC%9E%90%20%EC%84%9D%EA%B0%84)%2010%EB%85%84%EA%B0%84%20K-%ED%91%B8%EB%93%9C%20%EC%88%98%EC%B6%9C%20%EB%8F%99%ED%96%A5%EA%B3%BC%20%EC%8B%9C%EC%82%AC%EC%A0%90.pdf",
-    "type": "아티클",
-    "category": "업종 트렌드_식음료",
-    "summary": "라면과 건강식품이 주도하는 K-푸드의 글로벌 폭풍 성장세와 미국·유럽 등 주요 수출국 변화 추이를 분석한 자료입니다.",
-    "tags": [],
-    "keywords": [
-      "K푸드",
-      "수출 트렌드",
-      "라면 시장",
-      "글로벌 식품",
-      "식품 수출"
-    ],
-    "updatedAt": "2026-03-27"
-  },
-  {
-    "id": "item-021",
-    "title": "건강과 라이프스타일을 잇는 웰니스 식품 트렌드와 비즈니스 기회",
-    "source": "삼정KPMG",
-    "url": "https://assets.kpmg.com/content/dam/kpmgsites/kr/pdf/2025/eri/business_focus/%EC%82%BC%EC%A0%95KPMG-%EC%9B%B0%EB%8B%88%EC%8A%A4-%EC%8B%9D%ED%92%88-20251217.pdf.coredownload.inline.pdf",
-    "type": "보고서",
-    "category": "업종 트렌드_식음료",
-    "summary": "건강과 라이프스타일을 잇는 웰니스 식품 트렌드의 변화를 분석하고 식품 산업 내 새로운 비즈니스 기회와 전략적 방향을 확인할 수 있는 자료입니다.",
-    "tags": [],
-    "keywords": [
-      "웰니스 식품",
-      "건강 식품",
-      "기능성 식품",
-      "식품 산업",
-      "소비 트렌드"
-    ],
-    "updatedAt": "2026-03-27"
-  },
-  {
-    "id": "item-022",
-    "title": "2026년 커피 산업 트렌드 키워드",
-    "source": "서울카페쇼",
-    "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=103843",
-    "type": "아티클",
-    "category": "업종 트렌드_식음료",
-    "summary": "제24회 서울카페쇼의 내용을 요약한 기사입니다. 2026년 트렌드 키워드로 ‘비욘드(B.E.Y.O.N.D, 카페: 공명의 시대)’를 선정하여 카페가 커피 한잔을 마시는 공간을 넘어 사람과 브랜드, 지역과 기술 그리고 감성과 자연적 요소들이 소비자들을 공명하는 플랫폼으로의 변화의 의미를 설명하고 있습니다.",
-    "tags": [],
-    "keywords": [
-      "커피",
-      "트렌드 키워드",
-      "F&B",
-      "음료 트렌드",
-      "로코노미"
-    ],
-    "updatedAt": ""
-  },
-  {
-    "id": "item-023",
-    "title": "2026 농식품유통전망",
-    "source": "농림축산식품부",
-    "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=310379",
-    "type": "아티클",
-    "category": "업종 트렌드_식음료",
-    "summary": "2026년 농식품 유통시장 트렌드와 전망, 정부의 농산물 유통혁신 방안, e-커머스 플랫폼의 차별화 전략, K-푸드 수출 및 현지화 전략, 식자재 유통의 디지털 전환, AI 스마트 물류 등 식문화 산업의 유통 혁신과 미래 방향성에 대한 내용이 담겨 있습니다.",
-    "tags": [],
-    "keywords": [
-      "농산물",
-      "k푸드",
-      "식문화"
-    ],
-    "updatedAt": ""
-  },
-  {
-    "id": "item-001",
     "title": "패션 뉴스",
     "source": "한국패션협회",
     "url": "http://www.koreafashion.org/lounge/fashion/index.jsp?scategory_fk=1",
@@ -2509,7 +2250,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-002",
     "title": "화장품 시장 정보",
     "source": "대한화장품협회",
     "url": "https://kcia.or.kr/home/industry/industry_01.php",
@@ -2527,7 +2267,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-003",
     "title": "뷰티 관련 자료",
     "source": "칸타",
     "url": "https://market.worldpanelbynumerator.com/kr",
@@ -2545,7 +2284,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-004",
     "title": "2026년 패션 시장 전망",
     "source": "삼성패션연구소",
     "url": "https://www.samsungfashion.com/newsroomDetail.do?NEWS_ID=RI_20251224104102124",
@@ -2563,7 +2301,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-005",
     "title": "패션 위크에서 확인한 2026 봄/여름 핵심 트렌드 12가지",
     "source": "VOGUE",
     "url": "https://www.vogue.co.kr/2026/01/06/%ED%8C%A8%EC%85%98-%EC%9C%84%ED%81%AC%EC%97%90%EC%84%9C-%ED%99%95%EC%9D%B8%ED%95%9C-2026-%EB%B4%84-%EC%97%AC%EB%A6%84-%ED%95%B5%EC%8B%AC-%ED%8A%B8%EB%A0%8C%EB%93%9C-12%EA%B0%80%EC%A7%80/",
@@ -2581,7 +2318,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-006",
     "title": "2026년 10가지 패션 트렌드 미리보기",
     "source": "Design+",
     "url": "https://design.co.kr/article/142544",
@@ -2599,7 +2335,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-007",
     "title": "2026년 아웃도어 시장 전망 리포트",
     "source": "한국섬유신문",
     "url": "https://www.ktnews.com/news/articleView.html?idxno=143160",
@@ -2617,7 +2352,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-008",
     "title": "2025년 뜨는 뷰티 트렌드 키워드",
     "source": "W korea",
     "url": "https://www.wkorea.com/2026/01/29/k-%eb%b7%b0%ed%8b%b0%ec%9d%98-%ed%95%98%ec%9e%85-2026%eb%85%84%ec%9d%98-%ec%a0%84%eb%a7%9d%ec%9d%80/",
@@ -2635,7 +2369,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-009",
     "title": "화해 2025 뷰티 트렌드 리포트",
     "source": "화해",
     "url": "https://mkt.hwahae.biz/2025_beauty_trend_report",
@@ -2653,7 +2386,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-010",
     "title": "화해 2026 뷰티 트렌드 리포트",
     "source": "화해",
     "url": "https://business.hwahae.co.kr/insight/trendreport-2026-the-new-edition/",
@@ -2671,7 +2403,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-011",
     "title": "2026년 시장을 선도할 지속가능한 성분 5가지",
     "source": "화해",
     "url": "https://business.hwahae.co.kr/insight/beauty-trend-2026-sustainable-ingredients/",
@@ -2689,7 +2420,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-012",
     "title": "뷰티 트렌드 리포트 2025",
     "source": "오픈서베이",
     "url": "https://blog.opensurvey.co.kr/trendreport/beauty-2026/",
@@ -2709,7 +2439,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-013",
     "title": "2026 Global Beauty & Personal Care Predictions",
     "source": "민텔",
     "url": "https://www.mintel.com/insights/beauty-and-personal-care/beauty-trends/#download",
@@ -2729,7 +2458,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-014",
     "title": "2026 글로벌 뷰티 & 퍼스널 케어 전망",
     "source": "민텔",
     "url": "https://www.mintel.com/kr/insights/beauty-and-personal-care/global-beauty-trends/",
@@ -2749,7 +2477,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-015",
     "title": "2026 스타일 트렌드 키워드",
     "source": "에이블리",
     "url": "https://www.dailypop.kr/news/articleView.html?idxno=95377",
@@ -2767,7 +2494,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-001",
     "title": "2024 국민여가활동조사",
     "source": "문화체육관광부",
     "url": "https://www.mcst.go.kr/site/s_policy/dept/deptView.jsp?pCurrentPage=1&pType=02&pTab=01&pSeq=2060&pDataCD=0417000000&pSearchType=01&pSearchWord=%EA%B5%AD%EB%AF%BC%EC%97%AC%EA%B0%80%ED%99%9C%EB%8F%99%EC%A1%B0%EC%82%AC",
@@ -2785,7 +2511,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-002",
     "title": "관광 종합 현황",
     "source": "한국관광데이터랩",
     "url": "https://datalab.visitkorea.or.kr/datalab/portal/main/getMainForm.do",
@@ -2803,7 +2528,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-003",
     "title": "여가/여행리포트",
     "source": "컨슈머인사이트",
     "url": "https://www.consumerinsight.co.kr/boardList?cate=trav",
@@ -2821,7 +2545,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-004",
     "title": "데이터로 보는 2026 관광 트렌드 분석",
     "source": "한국관광데이터랩",
     "url": "https://datalab.visitkorea.or.kr/site/portal/ex/bbs/View.do?cbIdx=1129&bcIdx=310001&pageIndex=1&cateCont=tlt02",
@@ -2839,7 +2562,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-001",
     "title": "자동차산업 동향 (산업보고서)",
     "source": "한국자동차모빌리티산업협회",
     "url": "https://www.kama.or.kr/NewsController?cmd=V&boardmaster_id=industry&board_id=12374&menunum=0004&searchGubun=&searchValue=&pagenum=1",
@@ -2857,7 +2579,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-002",
     "title": "자동차 관련 조사",
     "source": "컨슈머인사이트",
     "url": "https://www.consumerinsight.co.kr/boardList?cate=auto",
@@ -2875,7 +2596,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-003",
     "title": "다나와_자동차백과",
     "source": "다나와 자동차",
     "url": "https://auto.danawa.com/",
@@ -2893,7 +2613,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-004",
     "title": "모델별/브랜드별/TOP10별 승용 신차 등록 차트",
     "source": "카이즈유",
     "url": "https://carcharts-free.carisyou.net/",
@@ -2911,7 +2630,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-005",
     "title": "2026년 주요국 자동차 시장 전망",
     "source": "한국자동차연구원",
     "url": "https://www.katech.re.kr/page/07090450-89fd-4a3f-8373-ee74cbb3e738?ac=view&post=e0f49655-3096-4b78-990a-04564e07f9f2&searchText=2026&page=1",
@@ -2929,7 +2647,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-006",
     "title": "2026년에 주목할 글로벌 자동차 산업 이슈",
     "source": "한국자동차연구원",
     "url": "https://www.katech.re.kr/page/07090450-89fd-4a3f-8373-ee74cbb3e738?searchText=2026&ac=view&post=8ab03328-1b5b-47e5-b26d-1b05f51e0b41",
@@ -2947,7 +2664,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-007",
     "title": "2025년 자동차산업 평가 및 2026년 전망",
     "source": "한국자동차산업협동조합",
     "url": "https://www.kaica.or.kr/contribute/1385?page=1",
@@ -2967,7 +2683,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-008",
     "title": "2025년 자동차산업 평가 및 2026년 전망",
     "source": "한국자동차모빌리티산업협회",
     "url": "https://www.kama.or.kr/NewsController?cmd=V&boardmaster_id=industry&board_id=12366&menunum=0004&searchGubun=&searchValue=&pagenum=1",
@@ -2985,7 +2700,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-009",
     "title": "KPMG 글로벌 자동차 산업 동향 보고서",
     "source": "삼정KPMG",
     "url": "https://assets.kpmg.com/content/dam/kpmgsites/kr/pdf/2025/eri/business_focus/%EC%82%BC%EC%A0%95KPMG-25%ED%9A%8C-KPMG-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9E%90%EB%8F%99%EC%B0%A8%EC%82%B0%EC%97%85-%EB%8F%99%ED%96%A5-%EB%B3%B4%EA%B3%A0%EC%84%9C-20251020.pdf.coredownload.inline.pdf",
@@ -3005,7 +2719,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-010",
     "title": "전기차의 미래: 변화하는 산업, 혁신적인 기술 트렌드 리포트",
     "source": "다쏘시스템",
     "url": "https://discover.3ds.com/sites/default/files/2023-12/report-advancing-the-future-of-electric-vehicles-ko.pdf",
@@ -3023,7 +2736,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-011",
     "title": "Innovators Show Up! CES 2026 총정리 1편",
     "source": "잇이즈ITis",
     "url": "https://maily.so/itis/posts/l1zqgd3yr5x",
@@ -3041,7 +2753,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-012",
     "title": "Innovators Show Up! CES 2026 총정리 2편",
     "source": "잇이즈ITis",
     "url": "https://maily.so/itis/posts/g0zmw58eoql",
@@ -3059,7 +2770,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-013",
     "title": "2026년 '붉은 말의 해' 2026년 중고차 트렌드도 'HORSE'",
     "source": "케이카",
     "url": "https://www.electimes.com/news/articleView.html?idxno=363185",
@@ -3077,7 +2787,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-014",
     "title": "2026 딜로이트 글로벌 자동차 소비자 조사",
     "source": "Deloitte",
     "url": "https://www.deloitte.com/kr/ko/Industries/automotive/perspectives/2026-global-automotive-consumer-study.html",
@@ -3097,7 +2806,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-001",
     "title": "2025 한국 부자보고서",
     "source": "KB 금융 경영연구소",
     "url": "https://www.kbfg.com/kbresearch/report/reportView.do?reportId=2000551",
@@ -3115,7 +2823,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-002",
     "title": "2025 KB 부동산 보고서",
     "source": "KB 금융 경영연구소",
     "url": "https://www.kbfg.com/kbresearch/report/reportView.do?reportId=2000524",
@@ -3133,7 +2840,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-003",
     "title": "월별 금융앱 확보고객 순위",
     "source": "FINANCE insight report",
     "url": "https://fir.consumerinsight.co.kr/Finance/ResearchBrief?",
@@ -3151,7 +2857,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-004",
     "title": "월간생명보험",
     "source": "생명보험협회",
     "url": "https://www.klia.or.kr/klia/archive/insurMonth/webzine.do",
@@ -3169,7 +2874,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-005",
     "title": "대한민국 금융소비자 트렌드 2026",
     "source": "하나금융연구소",
     "url": "https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36720",
@@ -3187,7 +2891,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-006",
     "title": "2026 글로벌 금융 산업 전망",
     "source": "딜로이트",
     "url": "https://www.deloitte.com/content/dam/assets-zone1/kr/ko/docs/industries/financial-services/2025/financial-r.pdf",
@@ -3207,7 +2910,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-007",
     "title": "2025년 국내 디지털금융 주요 이슈",
     "source": "삼정KPMG",
     "url": "https://assets.kpmg.com/content/dam/kpmg/kr/pdf/2025/business-focus/%EC%82%BC%EC%A0%95KPMG-2025%EB%85%84-%EA%B5%AD%EB%82%B4-%EB%94%94%EC%A7%80%ED%84%B8%EA%B8%88%EC%9C%B5-%EC%A3%BC%EC%9A%94-%EC%9D%B4%EC%8A%88_20250314.pdf?",
@@ -3225,7 +2927,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-008",
     "title": "2026년 글로벌 은행산업의 6가지 디지털 키워드",
     "source": "국제금융센터",
     "url": "https://www.kcif.or.kr/finance/financeView?rpt_no=36468&mn=002007#:~:text=%E3%85%81%20%ED%95%B4%EC%99%B8%20%EC%A3%BC%EC%9A%94%20%EB%B6%84%EC%84%9D%EA%B8%B0%EA%B4%80%EB%93%A4%EC%9D%80%202026%EB%85%84%20%EC%9D%80%ED%96%89%20%EB%93%B1,%EA%B8%B0%EB%B0%98%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%AA%A8%EB%8D%B8%EC%9D%B4%20%EB%93%B1%EC%9E%A5%ED%95%98%EB%A9%B0%20%EC%A0%84%ED%99%98%EC%A0%90%EC%9D%84%20%EB%A7%9E%EC%9D%B4%ED%95%A0%20%EA%B0%80%EB%8A%A5%EC%84%B1",
@@ -3243,7 +2944,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-009",
     "title": "AI가 바꾸는 금융 프론트라인, AI 에이전트 금융의 미래",
     "source": "PwC",
     "url": "https://www.pwcconsulting.co.kr/ko/insight/pwcconsulting_ai-agent-in-fs.pdf",
@@ -3261,7 +2961,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-001",
     "title": "인테리어 디자이너들이 꼽은 2026년을 지배할 가구 트렌드",
     "source": "리빙트렌드",
     "url": "https://dalkora.com/bbs/board.php?bo_table=dk_trend&wr_id=895&sca=%EB%B6%80%EB%8F%99%EC%82%B0%ED%8C%8C%ED%8A%B8%EB%84%88",
@@ -3279,7 +2978,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-002",
     "title": "2025 트렌드 리포트",
     "source": "마리끌레르",
     "url": "https://www.maisonkorea.com/life/2025/01/2025-trend-report-3/",
@@ -3297,7 +2995,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-003",
     "title": "2026 인테리어 트렌드 미리보기, '컬러/디자인' 이렇게 바뀐다!",
     "source": "마케팅 인사이트",
     "url": "https://inside.ampm.co.kr/insight/13041",
@@ -3315,7 +3012,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-004",
     "title": "2026년 주목해야 할 홈 인테리어 트렌드 9가지",
     "source": "Shopify",
     "url": "https://www.shopify.com/kr/blog/home-furnishing-ecommerce-trends",
@@ -3333,7 +3029,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-001",
     "title": "키워드로 전망하는 2026년 콘텐츠산업",
     "source": "한국콘텐츠진흥원",
     "url": "https://www.youtube.com/watch?v=gQJ5tR2kjoE",
@@ -3351,7 +3046,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-002",
     "title": "2024년 기준 콘텐츠산업조사_게임산업 부가조사",
     "source": "한국콘텐츠진흥원",
     "url": "https://www.kocca.kr/kocca/bbs/view/B0158948/2010500.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useYn=&menuNo=204156&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&ufSetting=&recovery=&option1=&option2=&year=&morePage=&qtp=&domainId=&sortCode=&pageIndex=1",
@@ -3369,7 +3063,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-003",
     "title": "2026 첨단기술/미디어/통신 산업 전망",
     "source": "딜로이트",
     "url": "https://www.deloitte.com/kr/ko/Industries/tmt/perspectives/tmt-predictions.html",
@@ -3387,7 +3080,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-004",
     "title": "영화 산업통계",
     "source": "영화진흥위원회",
     "url": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=2",
@@ -3405,7 +3097,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-005",
     "title": "2026년 콘텐츠 시장 위기 벗어날까",
     "source": "피디저널",
     "url": "https://www.pdjournal.com/news/articleView.html?idxno=81088",
@@ -3423,7 +3114,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-001",
     "title": "AI로 반려동물 건강을 예측·진단하고 맞춤형 펫 푸드까지!",
     "source": "대한민국 정책브리핑",
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156741952",
@@ -3443,7 +3133,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "item-002",
     "title": "2026년 반려동물 산업 전망",
     "source": "멍냥뭉냥 삼냠미 블로그",
     "url": "https://blog.nymminfo.com/61",
@@ -3459,5 +3148,144 @@
       "펫 비즈니스"
     ],
     "updatedAt": "2026-03-27"
+  },
+  {
+    "title": "Video Gaming Report 2026",
+    "source": "BCG",
+    "url": "https://www.bcg.com/publications/2025/video-gaming-report-2026-next-era-of-growth?utm_source=chatgpt.com",
+    "type": "보고서",
+    "category": "업종 트렌드_게임",
+    "summary": "포스트 코로나 침체 이후 게임 산업이 다시 성장 국면에 진입하며, AI·클라우드·UGC·플랫폼 통합 등 구조 변화가 향후 10년 게임 생태계를 어떻게 재편할지를 분석한 글로벌 전략 보고서입니다.",
+    "tags": [
+      "글로벌"
+    ],
+    "keywords": [
+      "게임 산업",
+      "글로벌 게임",
+      "AI",
+      "클라우드",
+      "UGC",
+      "플랫폼 통합"
+    ],
+    "updatedAt": "2026-03-27"
+  },
+  {
+    "title": "센서타워 블로그_게임",
+    "source": "센서타워",
+    "url": "https://sensortower.com/ko/blog?query=%EA%B2%8C%EC%9E%84",
+    "type": "아티클",
+    "category": "업종 트렌드_게임",
+    "summary": "센서타워 블로그에서 한국을 포함한 주요 국가의 인기 게임 성과와 퍼블리셔 순위, 장르별 시장 전망 등을 확인할 수 있습니다.",
+    "tags": [],
+    "keywords": [
+      "게임",
+      "게임 트렌드",
+      "게임 앱",
+      "게임 앱 성과",
+      "인기 게임"
+    ],
+    "updatedAt": "2026-03-27"
+  },
+  {
+    "title": "K-음료, Zero or More 리포트",
+    "source": "삼일PwC",
+    "url": "https://www.pwc.com/kr/ko/insights/industry-focus/samilpwc_k-beverage-zero-or-more.pdf",
+    "type": "보고서",
+    "category": "업종 트렌드_식음료",
+    "summary": "국내 음료 시장의 핵심 트렌드를 '3無(제로·디카페인·무알코올)'와 '3有(기능성·세분화·친환경)'로 정의하고, 웰니스 중심의 시장 변화와 K-음료의 글로벌 확장 전략을 확인할 수 있는 자료입니다.",
+    "tags": [],
+    "keywords": [
+      "제로 음료",
+      "디카페인",
+      "무알코올",
+      "기능성 음료",
+      "K음료"
+    ],
+    "updatedAt": "2026-03-27"
+  },
+  {
+    "title": "커피 음용 및 디카페인 커피 관련 U&A 조사",
+    "source": "트렌드모니터",
+    "url": "https://www.trendmonitor.co.kr/tmweb/trend/allTrend/detail.do?bIdx=3271&code=0301&trendType=CKOREA&prevMonth=&currentPage=1",
+    "type": "보고서",
+    "category": "업종 트렌드_식음료",
+    "summary": "카페인 과잉 섭취에 부담을 느끼는 소비자들이 늘어남에 따라 급성장 중인 디카페인 커피 시장의 이용 행태와 선호도를 분석한 자료입니다.",
+    "tags": [
+      "설문조사"
+    ],
+    "keywords": [
+      "디카페인 커피",
+      "커피 소비",
+      "카페인",
+      "커피 시장",
+      "음료 트렌드"
+    ],
+    "updatedAt": "2026-03-27"
+  },
+  {
+    "title": "10년간 K-푸드 수출 동향과 시사점",
+    "source": "대한상공회의소",
+    "url": "https://www.korcham.net/new_pdf/target//(3%EC%9B%94%206%EC%9D%BC%EC%9E%90%20%EC%84%9D%EA%B0%84)%2010%EB%85%84%EA%B0%84%20K-%ED%91%B8%EB%93%9C%20%EC%88%98%EC%B6%9C%20%EB%8F%99%ED%96%A5%EA%B3%BC%20%EC%8B%9C%EC%82%AC%EC%A0%90.pdf",
+    "type": "아티클",
+    "category": "업종 트렌드_식음료",
+    "summary": "라면과 건강식품이 주도하는 K-푸드의 글로벌 폭풍 성장세와 미국·유럽 등 주요 수출국 변화 추이를 분석한 자료입니다.",
+    "tags": [],
+    "keywords": [
+      "K푸드",
+      "수출 트렌드",
+      "라면 시장",
+      "글로벌 식품",
+      "식품 수출"
+    ],
+    "updatedAt": "2026-03-27"
+  },
+  {
+    "title": "건강과 라이프스타일을 잇는 웰니스 식품 트렌드와 비즈니스 기회",
+    "source": "삼정KPMG",
+    "url": "https://assets.kpmg.com/content/dam/kpmgsites/kr/pdf/2025/eri/business_focus/%EC%82%BC%EC%A0%95KPMG-%EC%9B%B0%EB%8B%88%EC%8A%A4-%EC%8B%9D%ED%92%88-20251217.pdf.coredownload.inline.pdf",
+    "type": "보고서",
+    "category": "업종 트렌드_식음료",
+    "summary": "건강과 라이프스타일을 잇는 웰니스 식품 트렌드의 변화를 분석하고 식품 산업 내 새로운 비즈니스 기회와 전략적 방향을 확인할 수 있는 자료입니다.",
+    "tags": [],
+    "keywords": [
+      "웰니스 식품",
+      "건강 식품",
+      "기능성 식품",
+      "식품 산업",
+      "소비 트렌드"
+    ],
+    "updatedAt": "2026-03-27"
+  },
+  {
+    "title": "2026년 커피 산업 트렌드 키워드",
+    "source": "서울카페쇼",
+    "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=103843",
+    "type": "아티클",
+    "category": "업종 트렌드_식음료",
+    "summary": "제24회 서울카페쇼의 내용을 요약한 기사입니다. 2026년 트렌드 키워드로 ‘비욘드(B.E.Y.O.N.D, 카페: 공명의 시대)’를 선정하여 카페가 커피 한잔을 마시는 공간을 넘어 사람과 브랜드, 지역과 기술 그리고 감성과 자연적 요소들이 소비자들을 공명하는 플랫폼으로의 변화의 의미를 설명하고 있습니다.",
+    "tags": [],
+    "keywords": [
+      "커피",
+      "트렌드 키워드",
+      "F&B",
+      "음료 트렌드",
+      "로코노미"
+    ],
+    "updatedAt": ""
+  },
+  {
+    "title": "2026 농식품유통전망",
+    "source": "농림축산식품부",
+    "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=310379",
+    "type": "아티클",
+    "category": "업종 트렌드_식음료",
+    "summary": "2026년 농식품 유통시장 트렌드와 전망, 정부의 농산물 유통혁신 방안, e-커머스 플랫폼의 차별화 전략, K-푸드 수출 및 현지화 전략, 식자재 유통의 디지털 전환, AI 스마트 물류 등 식문화 산업의 유통 혁신과 미래 방향성에 대한 내용이 담겨 있습니다.",
+    "tags": [],
+    "keywords": [
+      "농산물",
+      "k푸드",
+      "식문화"
+    ],
+    "updatedAt": ""
   }
 ]
