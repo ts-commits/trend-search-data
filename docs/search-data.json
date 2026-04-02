@@ -4,7 +4,7 @@
     "source": "코바코",
     "url": "https://www.kobaco.co.kr/site/adstat/board/broadcastprice/1291?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&bcId=broadcastprice&baNotice=false&baCommSelec=false&baOpenDay=true&baUse=true",
     "type": "보고서",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "2025년 광고시장 현황과 전망, 매체별 광고비 현황을 함께 확인할 수 있습니다.",
     "tags": [
       "공공자료"
@@ -32,7 +32,7 @@
     "source": "한국광고총연합회",
     "url": "https://www.adic.or.kr/journal/column/list.do",
     "type": "정기간행물",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "광고 업계의 트렌드, 학술 자료, 실무 인사이트를 제공하는 국내 최대 규모의 광고 전문 콘텐츠 아카이브입니다. 광고업계 주요 화두와 해석형 콘텐츠를 확인할 수 있습니다.",
     "tags": [],
     "keywords": [
@@ -56,7 +56,7 @@
     "source": "광고정보센터",
     "url": "https://www.adic.or.kr/lit/journal/getJournal.do?sourceUkey=1",
     "type": "정기간행물",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "광고 산업의 정책, 통계, 트렌드를 전문적으로 다루는 월간지입니다. 광고계 리포트, 통계 데이터, 전문 칼럼, 우수 광고 리뷰 등을 통해 업게 이슈와 크리에이티브 인사이트를 제공합니다.",
     "tags": [],
     "keywords": [
@@ -80,7 +80,7 @@
     "source": "오픈애즈",
     "url": "https://www.openads.co.kr/home",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "NHN AD가 운영하는 마케팅 큐레이션 플랫폼으로, 마케터와 비즈니스 운영자들에게 실무에 필요한 인사이트와 광고 상품 정보를 제공하고 있습니다.",
     "tags": [],
     "keywords": [
@@ -104,7 +104,7 @@
     "source": "아이보스",
     "url": "https://www.i-boss.co.kr/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "마케터, 광고주, 대행사가 모여 정보를 공유하고 협력하는 국내 최대 규모의 온라인 마케팅 포털 플랫폼으로, 온라인 마케팅 커뮤니티 기반 정보와 실무 이슈를 확인할 수 있습니다.",
     "tags": [],
     "keywords": [
@@ -128,7 +128,7 @@
     "source": "제일기획 블로그",
     "url": "https://blog.cheil.com/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "제일기획이 운영하는 공식 브랜드 채널로, 마케팅 실무자와 예비 광고인들에게 영감을 주는 인사이트 콘텐츠를 제공하고 있습니다. 브랜드와 캠페인 관점에서 트렌드를 살펴보고 싶을 때 참고하길 추천합니다.",
     "tags": [],
     "keywords": [
@@ -152,7 +152,7 @@
     "source": "코바코",
     "url": "https://adstat.kobaco.co.kr/sub/kai_data_search.do",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "한국 방송 시청률과 광고비 흐름 관련 자료",
     "tags": [
       "공공자료"
@@ -178,7 +178,7 @@
     "source": "광고통계시스템",
     "url": "https://www.kobaco.co.kr/site/adstat/board/kai_report",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "월별로 업로드되는 광고경기전망지수 자료를 확인할 수 있습니다. 광고 업황 흐름과 시장 분위기를 살펴보고 싶을 때 확인해보세요.",
     "tags": [
       "공공자료"
@@ -204,7 +204,7 @@
     "source": "한국광고주협회",
     "url": "https://www.kaa.or.kr/sub05/sub05_1_2.html",
     "type": "정기간행물",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "광고 시장과 광고 업계 관련 이슈를 계절별로 발간하는 저널을 통해 전달합니다.",
     "tags": [],
     "keywords": [
@@ -228,7 +228,7 @@
     "source": "칸타",
     "url": "https://www.kantar.co.kr/index.php?module=Board&action=SiteBoard&sMode=SELECT_FORM&iBrdNo=1",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "매월 글로벌 마케팅 리서치 전문가들의 데이터 분석을 바탕으로 AI, 미디어, 이커머스 등 최신 마케팅 트렌드와 전략적 인사이트를 제공합니다.",
     "tags": [
       "글로벌"
@@ -254,7 +254,7 @@
     "source": "한국방송통신전파진흥원",
     "url": "https://www.kca.kr/boardList.do?boardId=TRENDS&pageId=www145",
     "type": "정기간행물",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "미디어 관련 주요 이슈와 트렌드 자료를 확인할 수 있습니다. 미디어 산업 흐름을 정책·산업 관점에서 함께 보고 싶을 때 참고해보세요.",
     "tags": [
       "공공자료"
@@ -280,7 +280,7 @@
     "source": "트렌드와칭",
     "url": "https://trendw.kr/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "마케팅, IT, 비즈니스 분야의 최신 동향과 통찰력을 제공하는 국내 온라인 미디어 사이트입니다.",
     "tags": [
       "글로벌"
@@ -306,7 +306,7 @@
     "source": "블로터",
     "url": "https://www.bloter.net/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "IT와 디지털 기술을 중심으로 시작하여, 자본시장과 산업 전반을 다루는 디지털·경제 종합 미디어입니다. 디지털 시장 및 업계 관련 전문 기사와 이슈를 확인할 수 있습니다.",
     "tags": [],
     "keywords": [
@@ -330,7 +330,7 @@
     "source": "브랜드브리프",
     "url": "http://www.brandbrief.co.kr/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "광고, 마케팅, 브랜드 전략에 특화된 브랜드 전문 뉴스 미디어입니다. 칸 라이언즈 등 주요 크리에이티브 관련 소식과 브랜드 캠페인 분석을 제공합니다.",
     "tags": [],
     "keywords": [
@@ -354,7 +354,7 @@
     "source": "The PR",
     "url": "http://www.the-pr.co.kr/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "기업 홍보(PR)과 위기관리에 특화된 전문지로, 브랜드 평판 관리 전략, 언론 소통 방식, 디지털 커뮤니케이션 트렌드 분석 콘텐츠를 제공합니다.",
     "tags": [],
     "keywords": [
@@ -378,7 +378,7 @@
     "source": "매드타임즈",
     "url": "http://www.madtimes.org/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "디지털 마케팅과 광고 기술에 특화된 저널로 국내외 최신 광고 캠페인 사례와 AI 데이터 기반의 마케팅 혁신 트렌드를 제공합니다.",
     "tags": [
       "글로벌"
@@ -404,7 +404,7 @@
     "source": "센서타워",
     "url": "https://sensortower.com/ko/blog",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "전 세계 모바일 앱의 매출·다운로드 데이터와 광고 노출 비중(SOV) 분석을 통해 경쟁사 앱의 성과와 시장 점유율 변화를 확인할 수 있는 글로벌 데이터 인텔리전스 플랫폼입니다. 블로그를 통해 모바일 앱 및 게임 시장을 기반으로 한 분석 리포트와 비즈니스 인사이트를 제공하고 있습니다.",
     "tags": [
       "유료",
@@ -431,7 +431,7 @@
     "source": "앱스플라이어",
     "url": "https://www.appsflyer.com/kr/resources/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "모바일 마케팅 전문 기업 앱스플라이어가 제공하는 글로벌 인사이트를 확인할 수 있습니다. 데이터 기반 업계별 인사이트, 글로벌 트렌드와 현지 트렌드 등에 대한 리포트와 가이드를 제공합니다.",
     "tags": [
       "글로벌"
@@ -457,7 +457,7 @@
     "source": "앱스플라이어",
     "url": "https://www.appsflyer.com/kr/blog/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "최신 퍼포먼스 마케팅 전략, 앱 비즈니스 성장을 위한 실무적인 인사이트와 성공 사례 등을 제공합니다.",
     "tags": [
       "글로벌"
@@ -483,7 +483,7 @@
     "source": "KPMG",
     "url": "https://home.kpmg/kr/ko/home/insights.html",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "글로벌 경제 동향, 산업별 트렌드 및 전략 등에 관한 전문 리포트를 제공합니다.",
     "tags": [
       "글로벌"
@@ -509,7 +509,7 @@
     "source": "네이버페이 증권",
     "url": "https://finance.naver.com/research/industry_list.nhn?&page=2",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "증권사별 산업 자료를 모아 확인할 수 있습니다.",
     "tags": [],
     "keywords": [
@@ -533,7 +533,7 @@
     "source": "닐슨",
     "url": "https://www.nielsen.com/us/en/insights/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "시장, 미디어 등 각종 연구 자료를 확인할 수 있습니다.",
     "tags": [
       "글로벌"
@@ -551,7 +551,7 @@
     "source": "IPG MEDIA LAB",
     "url": "https://medium.com/ipg-media-lab",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "시장, 미디어 등 각종 연구 자료를 확인할 수 있습니다.",
     "tags": [
       "글로벌"
@@ -569,7 +569,7 @@
     "source": "IAB",
     "url": "https://www.iab.com/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "시장, 미디어 등 각종 연구 자료를 확인할 수 있습니다.",
     "tags": [
       "글로벌"
@@ -587,7 +587,7 @@
     "source": "한국콘텐츠진흥원",
     "url": "https://www.kocca.kr/kocca/bbs/list/B0158950.do?menuNo=204160",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "한국콘텐츠진흥원에서 제공하는 해외 콘텐츠 시장 동향과 글로벌 산업 리포트를 확인할 수 있는 게시판입니다.",
     "tags": [
       "글로벌"
@@ -606,7 +606,7 @@
     "source": "코트라",
     "url": "https://dream.kotra.or.kr/kotranews/cms/com/index.do?MENU_ID=70",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "KOTRA에서 제공하는 해외시장 뉴스 플랫폼입니다.",
     "tags": [
       "글로벌"
@@ -625,7 +625,7 @@
     "source": "We Are Social",
     "url": "https://wearesocial.com/uk/blog/2025/10/digital-2026-global-overview-report/",
     "type": "보고서",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "글로벌 디지털 이용 트렌드를 정리한 보고서입니다.",
     "tags": [
       "글로벌"
@@ -644,7 +644,7 @@
     "source": "GlobalWebIndex",
     "url": "https://blog.globalwebindex.com/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "글로벌 소비자 행동 및 마케팅 트렌드 분석 블로그입니다.",
     "tags": [
       "글로벌"
@@ -663,7 +663,7 @@
     "source": "eMarketer",
     "url": "https://www.emarketer.com/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "디지털 마케팅 및 광고 시장 데이터를 제공하는 사이트입니다.",
     "tags": [
       "글로벌"
@@ -682,7 +682,7 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "스타트업 및 기술 뉴스 제공 매체입니다.",
     "tags": [
       "글로벌"
@@ -701,7 +701,7 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "테크 및 문화 트렌드를 다루는 미디어입니다.",
     "tags": [
       "글로벌"
@@ -720,7 +720,7 @@
     "source": "WARC",
     "url": "https://www.warc.com/en",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "마케팅 전략 및 캠페인 인사이트 제공 플랫폼입니다.",
     "tags": [
       "글로벌"
@@ -739,7 +739,7 @@
     "source": "Adweek",
     "url": "https://www.adweek.com/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "광고 및 마케팅 뉴스 플랫폼입니다.",
     "tags": [
       "글로벌"
@@ -758,7 +758,7 @@
     "source": "Ad Age",
     "url": "https://adage.com/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "광고 및 브랜드 전략 분석 미디어입니다.",
     "tags": [
       "글로벌"
@@ -777,7 +777,7 @@
     "source": "DIGIDAY",
     "url": "https://digiday.com/",
     "type": "사이트",
-    "category": "광고 및 주요 시장",
+    "category": "광고/시장 트렌드",
     "summary": "디지털 미디어 및 마케팅 산업 분석 플랫폼입니다.",
     "tags": [
       "글로벌"
@@ -1169,7 +1169,7 @@
     "source": "네이버",
     "url": "https://displayad.naver.com/info/notice",
     "type": "사이트",
-    "category": "매체 트렌드",
+    "category": "미디어 트렌드",
     "summary": "네이버 검색광고와 성과형 디스플레이 광고 관련 주요 공지사항을 확인할 수 있는 사이트입니다.",
     "tags": [],
     "keywords": [
@@ -1186,7 +1186,7 @@
     "source": "네이버",
     "url": "https://displayad.naver.com/stories",
     "type": "사이트",
-    "category": "매체 트렌드",
+    "category": "미디어 트렌드",
     "summary": "네이버 광고 상품별 성공사례와 네이버 파트너 어워즈 수상작을 확인할 수 있는 사이트입니다.",
     "tags": [],
     "keywords": [
@@ -1203,7 +1203,7 @@
     "source": "네이버",
     "url": "https://blog.naver.com/naver_diary",
     "type": "사이트",
-    "category": "매체 트렌드",
+    "category": "미디어 트렌드",
     "summary": "네이버 서비스의 업데이트 소식을 확인할 수 있는 공식 블로그입니다.",
     "tags": [],
     "keywords": [
@@ -1220,7 +1220,7 @@
     "source": "카카오",
     "url": "https://business.kakao.com/",
     "type": "사이트",
-    "category": "매체 트렌드",
+    "category": "미디어 트렌드",
     "summary": "카카오 채널, 광고, 서비스와 도구, 비즈니스 가이드를 확인할 수 있는 사이트입니다.",
     "tags": [],
     "keywords": [
@@ -1237,7 +1237,7 @@
     "source": "메타",
     "url": "https://ko-kr.facebook.com/business/campaign-guidance-navigator",
     "type": "사이트",
-    "category": "매체 트렌드",
+    "category": "미디어 트렌드",
     "summary": "메타의 솔루션을 활용해 매출 증대와 브랜드 인지도 향상 성과를 만든 글로벌 기업들의 마케팅 전략과 성공 사례를 확인할 수 있습니다.",
     "tags": [],
     "keywords": [
@@ -1254,7 +1254,7 @@
     "source": "메타",
     "url": "https://www.facebook.com/business/news",
     "type": "사이트",
-    "category": "매체 트렌드",
+    "category": "미디어 트렌드",
     "summary": "메타 플랫폼의 최신 제품 업데이트, 마케팅 트렌드, 분석 보고서와 공식 비즈니스 소식을 제공하는 사이트입니다.",
     "tags": [],
     "keywords": [
@@ -1271,7 +1271,7 @@
     "source": "메타",
     "url": "https://www.facebook.com/business/industries",
     "type": "사이트",
-    "category": "매체 트렌드",
+    "category": "미디어 트렌드",
     "summary": "자동차, 소비재, 이커머스, 엔터테인먼트, 게임 등 다양한 업종별 인사이트와 메타의 광고 리소스, 가이드를 확인할 수 있습니다.",
     "tags": [],
     "keywords": [
@@ -1296,7 +1296,7 @@
     "source": "메타",
     "url": "https://business.instagram.com/success/?#insights",
     "type": "사이트",
-    "category": "매체 트렌드",
+    "category": "미디어 트렌드",
     "summary": "인스타그램 비즈니스 계정의 성과 측정 방법과 타겟 인구 통계, 콘텐츠 도달률 등 데이터 분석 기반의 성장 전략을 안내하는 사이트입니다.",
     "tags": [],
     "keywords": [
@@ -1313,7 +1313,7 @@
     "source": "구글",
     "url": "https://support.google.com/google-ads/announcements/9048695?",
     "type": "사이트",
-    "category": "매체 트렌드",
+    "category": "미디어 트렌드",
     "summary": "Google Ads의 생성형 AI 기반 소재 개선, 동영상 광고 강화, 실적 최대화 캠페인 등 주요 기능 업데이트와 공지사항을 안내합니다.",
     "tags": [],
     "keywords": [
@@ -1330,7 +1330,7 @@
     "source": "구글",
     "url": "https://www.thinkwithgoogle.com/",
     "type": "사이트",
-    "category": "매체 트렌드",
+    "category": "미디어 트렌드",
     "summary": "최신 디지털 트렌드, 소비자 인사이트, AI 마케팅 전략 등 마케터와 비즈니스 성장에 필요한 연구 자료와 인사이트를 제공합니다.",
     "tags": [],
     "keywords": [
@@ -1347,7 +1347,7 @@
     "source": "유튜브랭크",
     "url": "https://youtube-rank.com/board/?mid=home",
     "type": "사이트",
-    "category": "매체 트렌드",
+    "category": "미디어 트렌드",
     "summary": "국내외 유튜브 채널을 카테고리별로 분류해 구독자 수, 조회수, 동영상 수 기준의 순위와 통계 정보를 제공하는 사이트입니다.",
     "tags": [],
     "keywords": [
@@ -1364,7 +1364,7 @@
     "source": "틱톡",
     "url": "https://newsroom.tiktok.com/ko-kr",
     "type": "사이트",
-    "category": "매체 트렌드",
+    "category": "미디어 트렌드",
     "summary": "틱톡의 최신 캠페인, 브랜드 파트너십, 크리에이터 지원 프로그램, 플랫폼 업데이트를 확인할 수 있는 공식 뉴스룸입니다.",
     "tags": [],
     "keywords": [
@@ -1381,7 +1381,7 @@
     "source": "socialblade",
     "url": "https://socialblade.com/youtube/lists/top/50/sb/all/global",
     "type": "사이트",
-    "category": "매체 트렌드",
+    "category": "미디어 트렌드",
     "summary": "SNS와 유튜브 등 주요 플랫폼의 채널 및 콘텐츠 통계 정보를 확인할 수 있는 사이트입니다.",
     "tags": [],
     "keywords": [
