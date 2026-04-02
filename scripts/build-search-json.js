@@ -1,46 +1,61 @@
-const fs = require('fs');
-const path = require('path');
-const { google } = require('googleapis');
+const fs = require("fs");
+const path = require("path");
+const { google } = require("googleapis");
 
-const SHEET_NAME = 'resources';
-const OUTPUT_DIR = path.join(__dirname, '..', 'docs');
-const OUTPUT_FILE = path.join(OUTPUT_DIR, 'search-data.json');
+const SHEET_ID = process.env.GOOGLE_SHEET_ID || "1ekbwT7okBC477cjeZwZWCgXqsTM6Gg-Xyez6YGEshNQ";
+const SHEET_NAME = process.env.GOOGLE_SHEET_NAME || "시트1";
 
-function splitPipe(value) {
-  if (!value) return [];
+const DOCS_DIR = path.join(__dirname, "..", "docs");
+const SEO_DIR = path.join(DOCS_DIR, "seo");
+
+const CATEGORY_PREFIX_MAP = {
+  "광고 및 주요 시장": "market",
+  "이용자 트렌드": "user",
+  "미디어 트렌드": "media",
+  "패션/화장품 업종 트렌드": "fashionbeauty",
+  "유통 업종 트렌드": "retail",
+  "식음료 업종 트렌드": "food",
+  "게임 업종 트렌드": "game",
+  "관광레저 업종 트렌드": "travelleisure",
+  "수송 업종 트렌드": "transport",
+  "금융보험 업종 트렌드": "finance"
+};
+
+function ensureDir(dirPath) {
+  if (!fs.existsSync(dirPath)) {
+    fs.mkdirSync(dirPath, { recursive: true });
+  }
+}
+
+function escapeHtml(value = "") {
   return String(value)
-    .split(/[|,·\/]/)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+function splitCommaText(value = "") {
+  return String(value)
+    .split(",")
     .map(v => v.trim())
     .filter(Boolean);
 }
 
-function normalizeDate(value) {
-  if (!value) return '';
-  return String(value).trim();
-}
-
-function normalizeText(value) {
-  if (!value) return '';
-  return String(value).trim();
-}
-
-function normalizeRow(row, headerMap) {
-  const id = normalizeText(row[headerMap.id] || '');
-  const title = normalizeText(row[headerMap.title] || '');
-  const year = normalizeText(row[headerMap.year] || '');
-  const source = normalizeText(row[headerMap.source] || '');
-  const url = normalizeText(row[headerMap.url] || '');
-  const type = normalizeText(row[headerMap.type] || '');
-  const category = normalizeText(row[headerMap.category] || '');
-  const summary = normalizeText(row[headerMap.summary] || '');
-  const tags = splitPipe(row[headerMap.tags] || '');
-  const keywords = splitPipe(row[headerMap.keywords] || '');
-  const updatedAt = normalizeDate(row[headerMap.updatedAt] || '');
+function normalizeRow(row) {
+  const title = (row.title || "").trim();
+  const source = (row.source || "").trim();
+  const url = (row.url || "").trim();
+  const type = (row.type || "").trim();
+  const category = (row.category || "").trim();
+  const summary = (row.summary || "").trim();
+  const tags = splitCommaText(row.tags || "");
+  const keywords = splitCommaText(row.keywords || "");
+  const updatedAt = (row.updatedAt || "").trim();
 
   return {
-    id,
     title,
-    year,
     source,
     url,
     type,
@@ -48,100 +63,153 @@ function normalizeRow(row, headerMap) {
     summary,
     tags,
     keywords,
-    updatedAt,
-    searchText: [
-      title,
-      year,
-      source,
-      type,
-      category,
-      summary,
-      ...tags,
-      ...keywords
-    ]
-      .filter(Boolean)
-      .join(' ')
-      .toLowerCase()
+    updatedAt
   };
 }
 
-async function main() {
-  const keyJson = process.env.GOOGLE_SERVICE_ACCOUNT_KEY;
-  const spreadsheetId = process.env.GOOGLE_SHEETS_ID;
+function isValidItem(item) {
+  return !!(item.title && item.url && item.category);
+}
 
-  if (!keyJson) throw new Error('Missing GOOGLE_SERVICE_ACCOUNT_KEY');
-  if (!spreadsheetId) throw new Error('Missing GOOGLE_SHEETS_ID');
+function buildSearchJsonItem(item, seoId) {
+  return {
+    id: seoId,
+    title: item.title,
+    source: item.source,
+    url: item.url,
+    type: item.type,
+    category: item.category,
+    summary: item.summary,
+    tags: item.tags,
+    keywords: item.keywords,
+    updatedAt: item.updatedAt
+  };
+}
 
-  const credentials = JSON.parse(keyJson);
+function buildSeoHtml(item, seoId) {
+  const mergedTags = [...item.tags, ...item.keywords].filter(Boolean);
+  const uniqueTags = [...new Set(mergedTags)].slice(0, 4);
+
+  const tagsHtml = uniqueTags.length
+    ? `
+  <ul class="ts-seo-tags">
+    ${uniqueTags.map(tag => `<li>${escapeHtml(tag)}</li>`).join("\n    ")}
+  </ul>`
+    : "";
+
+  return `<!-- SEO:START ${seoId} -->
+<div class="ts-seo-item" data-seo-id="${escapeHtml(seoId)}" data-category="${escapeHtml(item.category)}" data-type="${escapeHtml(item.type)}">
+  <h3 class="ts-seo-title">
+    <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">
+      ${escapeHtml(item.title)}
+    </a>
+  </h3>
+  <p class="ts-seo-meta">
+    ${item.source ? `<span class="ts-seo-source">${escapeHtml(item.source)}</span>` : ""}
+    ${item.source && item.type ? `<span class="ts-seo-dot">·</span>` : ""}
+    ${item.type ? `<span class="ts-seo-type">${escapeHtml(item.type)}</span>` : ""}
+  </p>
+  ${item.summary ? `<p class="ts-seo-summary">${escapeHtml(item.summary)}</p>` : ""}
+  ${tagsHtml}
+</div>
+<!-- SEO:END ${seoId} -->`;
+}
+
+function groupByCategory(items) {
+  const grouped = {};
+  items.forEach(item => {
+    if (!grouped[item.category]) {
+      grouped[item.category] = [];
+    }
+    grouped[item.category].push(item);
+  });
+  return grouped;
+}
+
+async function getSheetsClient() {
+  const credentials = JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT_KEY);
 
   const auth = new google.auth.GoogleAuth({
     credentials,
-    scopes: ['https://www.googleapis.com/auth/spreadsheets.readonly']
+    scopes: ["https://www.googleapis.com/auth/spreadsheets.readonly"]
   });
 
-  const sheets = google.sheets({ version: 'v4', auth });
+  return google.sheets({ version: "v4", auth });
+}
+
+async function fetchSheetRows() {
+  const sheets = await getSheetsClient();
 
   const response = await sheets.spreadsheets.values.get({
-    spreadsheetId,
+    spreadsheetId: SHEET_ID,
     range: `${SHEET_NAME}!A:Z`
   });
 
   const values = response.data.values || [];
-  if (!values.length) {
-    throw new Error('Sheet is empty');
-  }
+  if (!values.length) return [];
 
-  const headers = values[0].map((v) => String(v).trim());
-  const rows = values.slice(1);
-
-  const headerMap = {
-    id: headers.indexOf('id'),
-    title: headers.indexOf('title'),
-    year: headers.indexOf('year'),
-    source: headers.indexOf('source'),
-    url: headers.indexOf('url'),
-    type: headers.indexOf('type'),
-    category: headers.indexOf('category'),
-    summary: headers.indexOf('summary'),
-    tags: headers.indexOf('tags'),
-    keywords: headers.indexOf('keywords'),
-    updatedAt: headers.indexOf('updatedAt')
-  };
-
-  for (const [key, idx] of Object.entries(headerMap)) {
-    if (idx === -1) {
-      throw new Error(`Missing required header: ${key}`);
-    }
-  }
-
-  const items = rows
-    .map((row) => normalizeRow(row, headerMap))
-    .filter((item) => item.title && item.url);
-
-  items.sort((a, b) => {
-    const da = a.updatedAt || '';
-    const db = b.updatedAt || '';
-    return db.localeCompare(da);
+  const headers = values[0].map(v => String(v).trim());
+  const rows = values.slice(1).map(row => {
+    const obj = {};
+    headers.forEach((header, index) => {
+      obj[header] = row[index] || "";
+    });
+    return obj;
   });
 
-  const payload = {
-    updatedAt: new Date().toISOString(),
-    count: items.length,
-    items
-  };
-
-  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(payload, null, 2), 'utf8');
-
-  const noJekyllPath = path.join(OUTPUT_DIR, '.nojekyll');
-  if (!fs.existsSync(noJekyllPath)) {
-    fs.writeFileSync(noJekyllPath, '', 'utf8');
-  }
-
-  console.log(`Built ${items.length} items`);
+  return rows;
 }
 
-main().catch((err) => {
-  console.error(err);
+async function main() {
+  ensureDir(DOCS_DIR);
+  ensureDir(SEO_DIR);
+
+  const rawRows = await fetchSheetRows();
+  const items = rawRows.map(normalizeRow).filter(isValidItem);
+  const grouped = groupByCategory(items);
+
+  const counters = {};
+  const jsonOutput = [];
+  const allHtmlBlocks = [];
+
+  Object.keys(grouped).forEach(category => {
+    const prefix = CATEGORY_PREFIX_MAP[category] || "item";
+    counters[prefix] = 0;
+
+    const blocks = grouped[category].map(item => {
+      counters[prefix] += 1;
+      const seoId = `${prefix}-${String(counters[prefix]).padStart(3, "0")}`;
+
+      jsonOutput.push(buildSearchJsonItem(item, seoId));
+
+      const html = buildSeoHtml(item, seoId);
+      allHtmlBlocks.push(html);
+      return html;
+    });
+
+    fs.writeFileSync(
+      path.join(SEO_DIR, `${prefix}.html`),
+      blocks.join("\n\n"),
+      "utf8"
+    );
+  });
+
+  fs.writeFileSync(
+    path.join(DOCS_DIR, "search-data.json"),
+    JSON.stringify(jsonOutput, null, 2),
+    "utf8"
+  );
+
+  fs.writeFileSync(
+    path.join(SEO_DIR, "all.html"),
+    allHtmlBlocks.join("\n\n"),
+    "utf8"
+  );
+
+  console.log("search-data.json + seo html 생성 완료");
+}
+
+main().catch(error => {
+  console.error(error);
   process.exit(1);
 });
