@@ -9,7 +9,7 @@ const OUTPUT_FILE = path.join(OUTPUT_DIR, 'search-data.json');
 function splitPipe(value) {
   if (!value) return [];
   return String(value)
-    .split(/[|,·\/]/)   
+    .split(/[|,·\/]/)
     .map(v => v.trim())
     .filter(Boolean);
 }
@@ -19,19 +19,28 @@ function normalizeDate(value) {
   return String(value).trim();
 }
 
+function normalizeText(value) {
+  if (!value) return '';
+  return String(value).trim();
+}
+
 function normalizeRow(row, headerMap) {
-  const title = row[headerMap.title] || '';
-  const source = row[headerMap.source] || '';
-  const url = row[headerMap.url] || '';
-  const type = row[headerMap.type] || '';
-  const category = row[headerMap.category] || '';
-  const summary = row[headerMap.summary] || '';
+  const id = normalizeText(row[headerMap.id] || '');
+  const title = normalizeText(row[headerMap.title] || '');
+  const year = normalizeText(row[headerMap.year] || '');
+  const source = normalizeText(row[headerMap.source] || '');
+  const url = normalizeText(row[headerMap.url] || '');
+  const type = normalizeText(row[headerMap.type] || '');
+  const category = normalizeText(row[headerMap.category] || '');
+  const summary = normalizeText(row[headerMap.summary] || '');
   const tags = splitPipe(row[headerMap.tags] || '');
   const keywords = splitPipe(row[headerMap.keywords] || '');
   const updatedAt = normalizeDate(row[headerMap.updatedAt] || '');
 
   return {
+    id,
     title,
+    year,
     source,
     url,
     type,
@@ -42,6 +51,7 @@ function normalizeRow(row, headerMap) {
     updatedAt,
     searchText: [
       title,
+      year,
       source,
       type,
       category,
@@ -85,7 +95,9 @@ async function main() {
   const rows = values.slice(1);
 
   const headerMap = {
+    id: headers.indexOf('id'),
     title: headers.indexOf('title'),
+    year: headers.indexOf('year'),
     source: headers.indexOf('source'),
     url: headers.indexOf('url'),
     type: headers.indexOf('type'),
