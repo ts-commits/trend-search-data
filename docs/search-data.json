@@ -1264,25 +1264,6 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "title": "2024 국민여가활동조사",
-    "source": "문화체육관광부",
-    "url": "https://www.mcst.go.kr/site/s_policy/dept/deptView.jsp?pCurrentPage=1&pType=02&pTab=01&pSeq=2060&pDataCD=0417000000&pSearchType=01&pSearchWord=%EA%B5%AD%EB%AF%BC%EC%97%AC%EA%B0%80%ED%99%9C%EB%8F%99%EC%A1%B0%EC%82%AC",
-    "type": "사이트",
-    "category": [
-      "업종 트렌드_관광/레저"
-    ],
-    "summary": "코로나19 이후 완전히 회복된 문화·여가 실태와 함께, 고물가 등 경제적 상황이 반영된 우리 국민의 리얼한 여가 생활을 담고 있는 자료입니다.",
-    "tags": [],
-    "keywords": [
-      "여가 활동",
-      "문화 소비",
-      "국민 여가",
-      "레저 트렌드",
-      "생활 조사"
-    ],
-    "updatedAt": "2026-03-27"
-  },
-  {
     "title": "관광 종합 현황",
     "source": "한국관광데이터랩",
     "url": "https://datalab.visitkorea.or.kr/datalab/portal/main/getMainForm.do",
@@ -1302,7 +1283,7 @@
     "updatedAt": "2026-03-27"
   },
   {
-    "title": "여가/여행리포트",
+    "title": "컨슈머인사이트 여가·여행 카테고리",
     "source": "컨슈머인사이트",
     "url": "https://www.consumerinsight.co.kr/boardList?cate=trav",
     "type": "사이트",
