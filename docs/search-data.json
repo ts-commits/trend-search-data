@@ -2105,52 +2105,12 @@
     "updatedAt": "2026-03-25"
   },
   {
-    "title": "2025 데이터 총결산",
-    "source": "대학내일 20대연구소",
-    "url": "https://www.20slab.org/archives/39012?categoryID=-1&TargetSubject=&headerType=&listType=list&headerID=0&isDate=False&date=&query=&pageidx=1",
-    "type": "보고서",
-    "category": [
-      "마케팅 트렌드"
-    ],
-    "summary": "2025년의 세대별 트렌드와 인사이트를 살펴볼 수 있는 주요 데이터 인포그래픽으로 금융, 뷰티, 음주, AI 등 14개 분야에서 나타난 Z세대의 소비 행태와 브랜드 선호도 등 핵심 인사이트를 요약하여 제공합니다.",
-    "tags": [],
-    "keywords": [
-      "Z세대",
-      "소비 트렌드",
-      "브랜드 선호도",
-      "금융",
-      "뷰티",
-      "AI"
-    ],
-    "updatedAt": "2026-03-27"
-  },
-  {
-    "title": "Z세대가 직접 정의하는 2025 Z세대 트렌드",
-    "source": "대학내일 20대연구소",
-    "url": "https://www.20slab.org/archives/38957?categoryID=-1&TargetSubject=&headerType=&listType=list&headerID=0&isDate=False&date=&query=&pageidx=1",
-    "type": "보고서",
-    "category": [
-      "마케팅 트렌드"
-    ],
-    "summary": "대학내일20대연구소와 KT Y 퓨처리스트가 협업하여 도출한 '2025 Z세대 트렌드 키워드'로, AI:tionship(AI와의 정서적 소통), n놀러(다양한 취미 향유), 듣폴트(사운드 중심 소비), 셀고리즘(자기 주도적 알고리즘 관리), 폴더소비(정보 저장형 소비) 등 5가지 핵심 키워드를 통해 Z세대의 변화된 라이프스타일을 설명합니다.",
-    "tags": [],
-    "keywords": [
-      "Z세대",
-      "라이프스타일",
-      "AI",
-      "취미",
-      "알고리즘",
-      "소비 트렌드"
-    ],
-    "updatedAt": "2026-03-27"
-  },
-  {
     "title": "2026년 모바일 현황 보고서",
     "source": "센서타워",
     "url": "https://sensortower.com/report/state-of-mobile-2026/download",
     "type": "보고서",
     "category": [
-      "마케팅 트렌드"
+      "미디어 트렌드"
     ],
     "summary": "글로벌 모바일 앱 및 게임 시장의 설치량·매출 추이와 함께 AI 기술이 접목된 앱들의 성장세 및 주요 카테고리별 성과 지표를 분석한 자료입니다. 글로벌 앱 다운로드 및 소비자 지출의 안정적 성장, 생성형 AI 기반 앱의 매출 폭발, 하이브리드 캐주얼 중심의 모바일 게임 시장 반등, 숏폼 및 소셜 커머스의 영향력 심화, 그리고 신흥 시장의 앱 설치량 급증을 핵심 키워드로 다루고 있습니다.",
     "tags": [
@@ -2192,7 +2152,7 @@
     "url": "https://blog.youtube/intl/ko-kr/culture-and-trends/year-on-youtube-2025-korea/",
     "type": "사이트",
     "category": [
-      "마케팅 트렌드"
+      "미디어 트렌드"
     ],
     "summary": "유튜브 공식 블로그의 2025년 연말 결산 리스트를 통해 한 해 동안 한국에서 가장 큰 사랑을 받은 트렌드와 크리에이터, 음악 정보를 확인할 수 있는 자료입니다. 주요 내용: 1. 꾸밈없는 진정성으로 시청자에게 다가가다 2. 페르소나와 내러티브의 압도적인 힘 3. K-콘텐츠의 글로벌한 영향력 4. 아티스트와 음악을 대중과 연결하는 유튜브의 힘 5. 글로벌 트렌드를 이끈 K-컬처",
     "tags": [],
@@ -2212,7 +2172,7 @@
     "url": "https://digitaltransformation.co.kr/2026%eb%85%84-ai%ed%8a%b8%eb%9e%9c%ec%8a%a4%ed%8f%ac%eb%a9%94%ec%9d%b4%ec%85%98-%ed%8a%b8%eb%a0%8c%eb%93%9cai-transformation-trend%eb%b6%84%ec%84%9d-%eb%b3%b4%ea%b3%a0%ec%84%9c/",
     "type": "보고서",
     "category": [
-      "마케팅 트렌드"
+      "시장 데이터"
     ],
     "summary": "국내외 매체 및 전문기관에서 분석한 2026년 소비자 트렌드, 미디어, 라이프스타일, 비즈니스, 마케팅, 테크, AI트랜스포메이션 트렌드 관련 자료가 정리되어 있습니다.",
     "tags": [],
@@ -2293,7 +2253,7 @@
     "url": "https://kr.tinderpressroom.com/tinder_YIS2025",
     "type": "사이트",
     "category": [
-      "소비 트렌드"
+      "미디어·디지털 이용"
     ],
     "summary": "전 세계 틴더 이용자 데이터를 바탕으로 연애와 데이팅 관련 트렌드를 정리한 자료입니다.",
     "tags": [],
@@ -2331,7 +2291,7 @@
     "url": "https://www.woorifg.com/kor/pr/financial-report/list.do",
     "type": "보고서",
     "category": [
-      "소비 트렌드"
+      "세대·집단 분석"
     ],
     "summary": "우리금융경영연구소가 발간한 보고서로 AI 시대 속 시니어 세대가 마주하는 경제, 은퇴, 건강 등 삶 전반의 변화와 기회를 다룬 자료입니다.",
     "tags": [],
@@ -2371,7 +2331,7 @@
     "url": "https://www.card-gorilla.com/contents/detail/4113",
     "type": "사이트",
     "category": [
-      "소비 트렌드"
+      "업종 트렌드_금융/보험"
     ],
     "summary": "신용카드 플랫폼 카드고릴라가 전망한 2026년 신용카드 트렌드 키워드를 소개하는 자료입니다. PLCC, 준프리미엄, 글로벌 프리미엄, 선택형 카드, 트래블카드를 주요 키워드로 다룹니다.",
     "tags": [],
@@ -2390,7 +2350,7 @@
     "url": "https://magazine.hankyung.com/business/article/202510162888b",
     "type": "아티클",
     "category": [
-      "소비 트렌드"
+      "마케팅 트렌드"
     ],
     "summary": "입소스 조사 데이터를 바탕으로 2026년 시장을 관통할 5대 핵심 흐름을 분석한 도서 내용을 정리한 자료입니다. 리어슈어, 리스타트, 리밸런스, 레볼루션, 리바이탈라이제이션을 핵심 키워드로 소개합니다.",
     "tags": [],
@@ -2421,6 +2381,58 @@
       "미디어"
     ],
     "updatedAt": "2026-03-27"
+  },
+  {
+    "title": "방송매체 이용행태 조사 보고서",
+    "source": "방송미디어통신위원회 방송통계포털",
+    "url": "https://www.mediastat.or.kr/kor/board/BoardList.html?rootId=2010002&searchType=subject&srcContDate=SEARCH&pageIndex=1&board_class=BOARD21&menuId=2010118&lastIndex=6&srcContClass=RPT0002",
+    "type": "보고서",
+    "category": [
+      "미디어·디지털 이용"
+    ],
+    "summary": "국민의 매체 보유 현황, 이용 행태, 미디어 인식 변화를 파악하기 위한 조사입니다. 매체 보유율과 필수매체 인식 변화, 온라인 동영상 콘텐츠 이용 경향, 매체 이용 패턴 변화, 1인 가구 방송매체 이용 행태를 확인할 수 있습니다.",
+    "tags": [
+      "공공자료"
+    ],
+    "keywords": [
+      "방송매체",
+      "미디어 이용",
+      "매체 보유율",
+      "필수매체",
+      "온라인 동영상",
+      "미디어 인식",
+      "이용 행태",
+      "1인 가구",
+      "방송통계",
+      "매체 조사"
+    ],
+    "updatedAt": "2026-03-24"
+  },
+  {
+    "title": "오픈서베이 트렌드리포트",
+    "source": "오픈서베이",
+    "url": "https://opensurvey.io/ko",
+    "type": "보고서",
+    "category": [
+      "조사·통계 자료"
+    ],
+    "summary": "이용자 행태와 업종 트렌드 관련 조사 보고서를 확인할 수 있습니다. 특정 주제별, 업종별 소비자 인식과 행동 변화를 실무 관점에서 빠르게 참고하고 싶을때 유용합니다.",
+    "tags": [
+      "설문조사"
+    ],
+    "keywords": [
+      "이용자 조사",
+      "소비자 인식",
+      "소비자 행동",
+      "업종 트렌드",
+      "설문 리포트",
+      "사용자 행태",
+      "시장 조사",
+      "주제별 조사",
+      "실무 인사이트",
+      "오픈서베이"
+    ],
+    "updatedAt": "2026-03-24"
   },
   {
     "title": "네이버광고주센터 공지사항",
@@ -3494,66 +3506,12 @@
     "updatedAt": "2026-04-03"
   },
   {
-    "title": "방송매체 이용행태 조사 보고서",
-    "source": "방송미디어통신위원회 방송통계포털",
-    "url": "https://www.mediastat.or.kr/kor/board/BoardList.html?rootId=2010002&searchType=subject&srcContDate=SEARCH&pageIndex=1&board_class=BOARD21&menuId=2010118&lastIndex=6&srcContClass=RPT0002",
-    "type": "보고서",
-    "category": [
-      "이용행태"
-    ],
-    "summary": "국민의 매체 보유 현황, 이용 행태, 미디어 인식 변화를 파악하기 위한 조사입니다. 매체 보유율과 필수매체 인식 변화, 온라인 동영상 콘텐츠 이용 경향, 매체 이용 패턴 변화, 1인 가구 방송매체 이용 행태를 확인할 수 있습니다.",
-    "tags": [
-      "공공자료"
-    ],
-    "keywords": [
-      "방송매체",
-      "미디어 이용",
-      "매체 보유율",
-      "필수매체",
-      "온라인 동영상",
-      "미디어 인식",
-      "이용 행태",
-      "1인 가구",
-      "방송통계",
-      "매체 조사"
-    ],
-    "updatedAt": "2026-03-24"
-  },
-  {
-    "title": "오픈서베이 트렌드리포트",
-    "source": "오픈서베이",
-    "url": "https://opensurvey.io/ko",
-    "type": "보고서",
-    "category": [
-      "통계자료",
-      "소비 트렌드"
-    ],
-    "summary": "이용자 행태와 업종 트렌드 관련 조사 보고서를 확인할 수 있습니다. 특정 주제별, 업종별 소비자 인식과 행동 변화를 실무 관점에서 빠르게 참고하고 싶을때 유용합니다.",
-    "tags": [
-      "설문조사"
-    ],
-    "keywords": [
-      "이용자 조사",
-      "소비자 인식",
-      "소비자 행동",
-      "업종 트렌드",
-      "설문 리포트",
-      "사용자 행태",
-      "시장 조사",
-      "주제별 조사",
-      "실무 인사이트",
-      "오픈서베이"
-    ],
-    "updatedAt": "2026-03-24"
-  },
-  {
     "title": "트렌드모니터",
     "source": "엠브레인 트렌드모니터",
     "url": "https://www.trendmonitor.co.kr/tmweb/main.do",
     "type": "사이트",
     "category": [
-      "통계자료",
-      "소비 트렌드"
+      "조사·통계 자료"
     ],
     "summary": "IT/모바일, 유통/쇼핑, 사회/문화 등 다양한 주제별 조사 보고서를 확인할 수 있습니다. 생활 방식 변화나 업종별 이슈를 조사 자료 중심으로 살펴보고 싶을 때 유용합니다.",
     "tags": [
@@ -3579,9 +3537,7 @@
     "url": "https://www.20slab.org/",
     "type": "사이트",
     "category": [
-      "통계자료",
-      "마케팅 트렌드",
-      "소비 트렌드"
+      "세대·집단 분석"
     ],
     "summary": "Z세대 관련 조사와 분석 보고서를 확인할 수 있습니다.",
     "tags": [],
@@ -3605,9 +3561,7 @@
     "url": "https://www.careet.net/",
     "type": "사이트",
     "category": [
-      "이용행태",
-      "마케팅 트렌드",
-      "소비 트렌드"
+      "세대·집단 분석"
     ],
     "summary": "Z세대 트렌드 관련 콘텐츠를 제공합니다.",
     "tags": [
@@ -3633,7 +3587,7 @@
     "url": "https://www.gallup.co.kr/gallupdb/main.asp",
     "type": "사이트",
     "category": [
-      "통계자료"
+      "조사·통계 자료"
     ],
     "summary": "사회 이슈와 라이프스타일 관련 조사 결과가 매주 업데이트되는 곳입니다. 사회 분위기와 소비자 인식 흐름을 함께 보고 싶을 때 추천합니다.",
     "tags": [],
@@ -3657,9 +3611,7 @@
     "url": "https://www.kbfg.com/kbresearch/report/reportView.do?reportId=2000551",
     "type": "보고서",
     "category": [
-      "이용행태",
-      "소비 트렌드",
-      "업종 트렌드_금융/보험"
+      "세대·집단 분석"
     ],
     "summary": "한국 부자 현황, 투자행태, 생애 등을 확인할 수 있습니다.",
     "tags": [],
@@ -3683,7 +3635,7 @@
     "url": "https://datalab.naver.com/",
     "type": "사이트",
     "category": [
-      "검색 트렌드"
+      "검색 관심사"
     ],
     "summary": "입력한 검색어의 증감 추이와 주제별 상위 검색어를 확인할 수 있습니다. 국내 검색 관심도 흐름과 시즌 키워드 변화를 확인할 때 활용해보세요.",
     "tags": [],
@@ -3707,7 +3659,7 @@
     "url": "https://trends.google.co.kr/trends/?geo=KR",
     "type": "사이트",
     "category": [
-      "검색 트렌드"
+      "검색 관심사"
     ],
     "summary": "검색어 트렌드와 관심도 변화를 확인할 수 있습니다. 국내외 관심도 변화를 확인할 때 추천합니다.",
     "tags": [],
@@ -3731,7 +3683,7 @@
     "url": "https://trends.withgoogle.com/ko/year-in-search/2025/kr/?hl=ko",
     "type": "사이트",
     "category": [
-      "검색 트렌드"
+      "검색 관심사"
     ],
     "summary": "전년 대비 트래픽이 가장 많이 증가한 키워드를 집계하여 한 해 동안 가장 화제가 된 이슈와 트렌드를 보여주는 서비스입니다.",
     "tags": [],
@@ -3755,7 +3707,7 @@
     "url": "https://keywordtool.io/youtube",
     "type": "사이트",
     "category": [
-      "검색 트렌드"
+      "검색 관심사"
     ],
     "summary": "유튜브, 구글, 인스타그램 등 플랫폼별 검색어와 검색량 추정치를 확인할 수 있습니다.",
     "tags": [
@@ -3781,7 +3733,7 @@
     "url": "https://www.koreanextweb.kr/front/stats/browser/browserUseStats.do",
     "type": "사이트",
     "category": [
-      "이용행태"
+      "미디어·디지털 이용"
     ],
     "summary": "운영체제 이용률을 확인할 수 있습니다.",
     "tags": [],
@@ -3805,7 +3757,7 @@
     "url": "https://gs.statcounter.com/browser-market-share/desktop/south-korea",
     "type": "사이트",
     "category": [
-      "이용행태"
+      "미디어·디지털 이용"
     ],
     "summary": "디바이스와 브라우저별 점유율을 국내 및 글로벌 기준으로 확인할 수 있습니다.",
     "tags": [
@@ -3831,9 +3783,7 @@
     "url": "https://kostat.go.kr/statDesc.es?act=view&mid=a10501010000&sttr_cd=S009007",
     "type": "보고서",
     "category": [
-      "마케팅·소비 트렌드",
-      "통계자료",
-      "업종 트렌드_유통"
+      "조사·통계 자료"
     ],
     "summary": "월별 온라인쇼핑 동향을 확인할 수 있습니다. 이커머스 소비 흐름과 월간 추세를 파악할 때 확인해보세요.",
     "tags": [
@@ -3860,7 +3810,7 @@
     "url": "https://kosis.kr/index/index.do",
     "type": "사이트",
     "category": [
-      "통계자료"
+      "조사·통계 자료"
     ],
     "summary": "인구 추계, 사업체, 제조업, 식음료, 무역, 광고 등 다양한 공공 통계를 폭넓게 확인할 수 있습니다. 시장과 산업 전반의 기초 데이터를 활용할 때 기본 자료로 활용하기 좋습니다.",
     "tags": [
@@ -3887,7 +3837,7 @@
     "url": "https://www.mogef.go.kr/nw/rpd/nw_rpd_s001d.do?mid=news405&bbtSn=710602",
     "type": "보고서",
     "category": [
-      "통계자료"
+      "조사·통계 자료"
     ],
     "summary": "인구, 노동시장, 일·생활·균형 등 9개 영역의 변화상을 분석한 자료입니다.",
     "tags": [
@@ -3907,5 +3857,45 @@
       "통계 보고서"
     ],
     "updatedAt": "2026-03-24"
+  },
+  {
+    "title": "2025 데이터 총결산",
+    "source": "대학내일 20대연구소",
+    "url": "https://www.20slab.org/archives/39012?categoryID=-1&TargetSubject=&headerType=&listType=list&headerID=0&isDate=False&date=&query=&pageidx=1",
+    "type": "보고서",
+    "category": [
+      "세대·집단 분석"
+    ],
+    "summary": "2025년의 세대별 트렌드와 인사이트를 살펴볼 수 있는 주요 데이터 인포그래픽으로 금융, 뷰티, 음주, AI 등 14개 분야에서 나타난 Z세대의 소비 행태와 브랜드 선호도 등 핵심 인사이트를 요약하여 제공합니다.",
+    "tags": [],
+    "keywords": [
+      "Z세대",
+      "소비 트렌드",
+      "브랜드 선호도",
+      "금융",
+      "뷰티",
+      "AI"
+    ],
+    "updatedAt": "2026-03-27"
+  },
+  {
+    "title": "Z세대가 직접 정의하는 2025 Z세대 트렌드",
+    "source": "대학내일 20대연구소",
+    "url": "https://www.20slab.org/archives/38957?categoryID=-1&TargetSubject=&headerType=&listType=list&headerID=0&isDate=False&date=&query=&pageidx=1",
+    "type": "보고서",
+    "category": [
+      "세대·집단 분석"
+    ],
+    "summary": "대학내일20대연구소와 KT Y 퓨처리스트가 협업하여 도출한 '2025 Z세대 트렌드 키워드'로, AI:tionship(AI와의 정서적 소통), n놀러(다양한 취미 향유), 듣폴트(사운드 중심 소비), 셀고리즘(자기 주도적 알고리즘 관리), 폴더소비(정보 저장형 소비) 등 5가지 핵심 키워드를 통해 Z세대의 변화된 라이프스타일을 설명합니다.",
+    "tags": [],
+    "keywords": [
+      "Z세대",
+      "라이프스타일",
+      "AI",
+      "취미",
+      "알고리즘",
+      "소비 트렌드"
+    ],
+    "updatedAt": "2026-03-27"
   }
 ]
