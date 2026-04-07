@@ -1,5 +1,49 @@
 [
   {
+    "id": "gaming-002",
+    "priority": 3,
+    "title": "2025 게임이용자 실태조사",
+    "year": "2025",
+    "source": "한국콘텐츠진흥원",
+    "url": "https://www.kocca.kr/shortUrl/fzBq",
+    "type": "보고서",
+    "category": [
+      "업종 트렌드_게임"
+    ],
+    "summary": "국내 거주 만 10세에서 64세 국민을 대상으로 게임 이용 현황과 행태를 분석한 자료입니다. 전체 게임 이용률, 플랫폼별 이용률, 플랫폼별 이용 행태를 확인할 수 있습니다.",
+    "tags": [],
+    "keywords": [
+      "게임 이용자",
+      "게임 이용률",
+      "플랫폼별 이용",
+      "게임 행태",
+      "이용자 조사"
+    ],
+    "updatedAt": "2026-03-27"
+  },
+  {
+    "id": "gaming-001",
+    "priority": 3,
+    "title": "2025 대한민국 게임백서",
+    "year": "2025",
+    "source": "한국콘텐츠진흥원",
+    "url": "https://www.kocca.kr/kocca/bbs/view/B0000146/2011091.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useYn=&menuNo=204154&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&ufSetting=&recovery=&option1=&option2=&year=&morePage=&qtp=&domainId=&sortCode=&pageIndex=1",
+    "type": "보고서",
+    "category": [
+      "업종 트렌드_게임"
+    ],
+    "summary": "국내외 게임 산업의 통계 현황을 진단하고 플랫폼 다변화와 AI 기술 도입 등 급변하는 시장의 성장 동력을 분석한 자료입니다.",
+    "tags": [],
+    "keywords": [
+      "게임 산업",
+      "게임 시장",
+      "플랫폼",
+      "AI 게임",
+      "산업 통계"
+    ],
+    "updatedAt": "2026-03-27"
+  },
+  {
     "id": "mobility-009",
     "priority": 3,
     "title": "KPMG 글로벌 자동차 산업 동향 보고서",
@@ -20,6 +64,31 @@
       "차량 등록",
       "글로벌 전략",
       "시장 분석"
+    ],
+    "updatedAt": "2026-03-27"
+  },
+  {
+    "id": "gaming-010",
+    "priority": 3,
+    "title": "Video Gaming Report 2026",
+    "year": "2026",
+    "source": "BCG",
+    "url": "https://www.bcg.com/publications/2025/video-gaming-report-2026-next-era-of-growth?utm_source=chatgpt.com",
+    "type": "보고서",
+    "category": [
+      "업종 트렌드_게임"
+    ],
+    "summary": "포스트 코로나 침체 이후 게임 산업이 다시 성장 국면에 진입하며, AI·클라우드·UGC·플랫폼 통합 등 구조 변화가 향후 10년 게임 생태계를 어떻게 재편할지를 분석한 글로벌 전략 보고서입니다.",
+    "tags": [
+      "글로벌"
+    ],
+    "keywords": [
+      "게임 산업",
+      "글로벌 게임",
+      "AI",
+      "클라우드",
+      "UGC",
+      "플랫폼 통합"
     ],
     "updatedAt": "2026-03-27"
   },
@@ -294,28 +363,6 @@
       "수출 전망",
       "내수 회복",
       "산업 분석"
-    ],
-    "updatedAt": "2026-03-27"
-  },
-  {
-    "id": "gaming-007",
-    "priority": 2,
-    "title": "2026 게임 마케팅 트렌드 : 상반기 주요 신작 정리",
-    "year": "2026",
-    "source": "포스타입",
-    "url": "https://openads.co.kr/content/contentDetail?contsId=18607",
-    "type": "아티클",
-    "category": [
-      "업종 트렌드_게임"
-    ],
-    "summary": "2026년 상반기 국내 게임 시장과 주요 신작을 바탕으로 게임 이용자 변화, AI, BM, 플랫폼 확장 흐름을 짚은 게임 마케팅 트렌드 정리 자료입니다.",
-    "tags": [],
-    "keywords": [
-      "게임 마케팅",
-      "신작 게임",
-      "AI 게임",
-      "BM",
-      "플랫폼 확장"
     ],
     "updatedAt": "2026-03-27"
   },
@@ -777,7 +824,7 @@
     "url": "https://displayad.naver.com/stories",
     "type": "사이트",
     "category": [
-      "매체 가이드"
+      "성공사례"
     ],
     "summary": "네이버 광고 상품별 성공사례와 네이버 파트너 어워즈 수상작을 확인할 수 있는 페이지입니다.",
     "tags": [],
@@ -799,7 +846,7 @@
     "url": "https://www.facebook.com/business/news",
     "type": "사이트",
     "category": [
-      "매체 가이드"
+      "미디어 트렌드"
     ],
     "summary": "메타 플랫폼의 최신 제품 업데이트, 마케팅 트렌드, 분석 보고서와 공식 비즈니스 소식을 제공하는 사이트입니다.",
     "tags": [],
@@ -821,7 +868,7 @@
     "url": "https://ko-kr.facebook.com/business/campaign-guidance-navigator",
     "type": "사이트",
     "category": [
-      "매체 가이드"
+      "성공사례"
     ],
     "summary": "메타의 솔루션을 활용해 매출 증대와 브랜드 인지도 향상 성과를 만든 글로벌 기업들의 마케팅 전략과 성공 사례를 확인할 수 있습니다.",
     "tags": [],
@@ -943,7 +990,7 @@
     "url": "https://business.instagram.com/success/?#insights",
     "type": "사이트",
     "category": [
-      "매체 가이드"
+      "성공사례"
     ],
     "summary": "인스타그램 비즈니스 계정의 성과 측정 방법과 타겟 인구 통계, 콘텐츠 도달률 등 데이터 분석 기반의 성장 전략을 안내하는 사이트입니다.",
     "tags": [],
@@ -1031,7 +1078,7 @@
     "url": "https://newsroom.tiktok.com/ko-kr",
     "type": "사이트",
     "category": [
-      "매체 가이드"
+      "미디어 트렌드"
     ],
     "summary": "틱톡의 최신 캠페인, 브랜드 파트너십, 크리에이터 지원 프로그램, 플랫폼 업데이트를 확인할 수 있는 공식 뉴스룸입니다.",
     "tags": [],
@@ -1133,31 +1180,6 @@
       "디지털 트렌드",
       "AI 마케팅",
       "마케팅 리서치"
-    ],
-    "updatedAt": "2026-03-27"
-  },
-  {
-    "id": "gaming-010",
-    "priority": 2,
-    "title": "Video Gaming Report 2026",
-    "year": "2026",
-    "source": "BCG",
-    "url": "https://www.bcg.com/publications/2025/video-gaming-report-2026-next-era-of-growth?utm_source=chatgpt.com",
-    "type": "보고서",
-    "category": [
-      "업종 트렌드_게임"
-    ],
-    "summary": "포스트 코로나 침체 이후 게임 산업이 다시 성장 국면에 진입하며, AI·클라우드·UGC·플랫폼 통합 등 구조 변화가 향후 10년 게임 생태계를 어떻게 재편할지를 분석한 글로벌 전략 보고서입니다.",
-    "tags": [
-      "글로벌"
-    ],
-    "keywords": [
-      "게임 산업",
-      "글로벌 게임",
-      "AI",
-      "클라우드",
-      "UGC",
-      "플랫폼 통합"
     ],
     "updatedAt": "2026-03-27"
   },
@@ -1369,6 +1391,28 @@
       "로코노미"
     ],
     "updatedAt": ""
+  },
+  {
+    "id": "gaming-007",
+    "priority": 1,
+    "title": "2026 게임 마케팅 트렌드 : 상반기 주요 신작 정리",
+    "year": "2026",
+    "source": "포스타입",
+    "url": "https://openads.co.kr/content/contentDetail?contsId=18607",
+    "type": "아티클",
+    "category": [
+      "업종 트렌드_게임"
+    ],
+    "summary": "2026년 상반기 국내 게임 시장과 주요 신작을 바탕으로 게임 이용자 변화, AI, BM, 플랫폼 확장 흐름을 짚은 게임 마케팅 트렌드 정리 자료입니다.",
+    "tags": [],
+    "keywords": [
+      "게임 마케팅",
+      "신작 게임",
+      "AI 게임",
+      "BM",
+      "플랫폼 확장"
+    ],
+    "updatedAt": "2026-03-27"
   },
   {
     "id": "marketingconsumer-011",
@@ -1812,50 +1856,6 @@
       "라면 시장",
       "글로벌 식품",
       "식품 수출"
-    ],
-    "updatedAt": "2026-03-27"
-  },
-  {
-    "id": "gaming-002",
-    "priority": 0,
-    "title": "2025 게임이용자 실태조사",
-    "year": "2025",
-    "source": "한국콘텐츠진흥원",
-    "url": "https://www.kocca.kr/shortUrl/fzBq",
-    "type": "보고서",
-    "category": [
-      "업종 트렌드_게임"
-    ],
-    "summary": "국내 거주 만 10세에서 64세 국민을 대상으로 게임 이용 현황과 행태를 분석한 자료입니다. 전체 게임 이용률, 플랫폼별 이용률, 플랫폼별 이용 행태를 확인할 수 있습니다.",
-    "tags": [],
-    "keywords": [
-      "게임 이용자",
-      "게임 이용률",
-      "플랫폼별 이용",
-      "게임 행태",
-      "이용자 조사"
-    ],
-    "updatedAt": "2026-03-27"
-  },
-  {
-    "id": "gaming-001",
-    "priority": 0,
-    "title": "2025 대한민국 게임백서",
-    "year": "2025",
-    "source": "한국콘텐츠진흥원",
-    "url": "https://www.kocca.kr/kocca/bbs/view/B0000146/2011091.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useYn=&menuNo=204154&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&ufSetting=&recovery=&option1=&option2=&year=&morePage=&qtp=&domainId=&sortCode=&pageIndex=1",
-    "type": "보고서",
-    "category": [
-      "업종 트렌드_게임"
-    ],
-    "summary": "국내외 게임 산업의 통계 현황을 진단하고 플랫폼 다변화와 AI 기술 도입 등 급변하는 시장의 성장 동력을 분석한 자료입니다.",
-    "tags": [],
-    "keywords": [
-      "게임 산업",
-      "게임 시장",
-      "플랫폼",
-      "AI 게임",
-      "산업 통계"
     ],
     "updatedAt": "2026-03-27"
   },
