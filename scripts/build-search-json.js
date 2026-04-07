@@ -7,6 +7,7 @@ const SHEET_ID =
 const SHEET_NAME = process.env.GOOGLE_SHEET_NAME || "resources";
 
 const DOCS_DIR = path.join(__dirname, "..", "docs");
+const OUTPUT_PATH = path.join(DOCS_DIR, "search-data.json");
 
 function ensureDir(dirPath) {
   if (!fs.existsSync(dirPath)) {
@@ -28,7 +29,17 @@ function normalizePriority(value = "") {
 }
 
 function normalizeVisible(value = "") {
-  return String(value).trim().toUpperCase();
+  return String(value).trim().toUpperCase() === "Y" ? "Y" : "N";
+}
+
+function parseDateToTime(value = "") {
+  const raw = String(value).trim();
+  if (!raw) return 0;
+
+  const timestamp = new Date(raw).getTime();
+  if (!Number.isNaN(timestamp)) return timestamp;
+
+  return 0;
 }
 
 function normalizeRow(row) {
@@ -67,10 +78,41 @@ function isValidItem(item) {
   return !!(
     item.title &&
     item.url &&
-    item.category &&
-    item.category.length &&
+    Array.isArray(item.category) &&
+    item.category.length > 0 &&
     item.visible === "Y"
   );
+}
+
+function dedupeItems(items) {
+  const map = new Map();
+
+  items.forEach((item) => {
+    const key = item.id || item.url || item.title;
+    if (!key) return;
+
+    if (!map.has(key)) {
+      map.set(key, item);
+      return;
+    }
+
+    const existing = map.get(key);
+
+    const currentPriority = Number(item.priority) || 0;
+    const existingPriority = Number(existing.priority) || 0;
+
+    const currentDate = parseDateToTime(item.updatedAt);
+    const existingDate = parseDateToTime(existing.updatedAt);
+
+    if (
+      currentPriority > existingPriority ||
+      (currentPriority === existingPriority && currentDate > existingDate)
+    ) {
+      map.set(key, item);
+    }
+  });
+
+  return Array.from(map.values());
 }
 
 function sortItems(items) {
@@ -79,14 +121,14 @@ function sortItems(items) {
       return b.priority - a.priority;
     }
 
-    const dateA = new Date(a.updatedAt || "1970-01-01").getTime();
-    const dateB = new Date(b.updatedAt || "1970-01-01").getTime();
+    const dateA = parseDateToTime(a.updatedAt);
+    const dateB = parseDateToTime(b.updatedAt);
 
     if (dateB !== dateA) {
       return dateB - dateA;
     }
 
-    return (a.title || "").localeCompare(b.title || "", "ko");
+    return String(a.title || "").localeCompare(String(b.title || ""), "ko");
   });
 }
 
@@ -111,22 +153,21 @@ async function fetchSheetRows() {
 
   const response = await sheets.spreadsheets.values.get({
     spreadsheetId: SHEET_ID,
-    range: `${SHEET_NAME}!A:Z`
+    range: `${SHEET_NAME}!A:ZZ`
   });
 
   const values = response.data.values || [];
   if (!values.length) return [];
 
   const headers = values[0].map((v) => String(v).trim());
-  const rows = values.slice(1).map((row) => {
+
+  return values.slice(1).map((row) => {
     const obj = {};
     headers.forEach((header, index) => {
       obj[header] = row[index] || "";
     });
     return obj;
   });
-
-  return rows;
 }
 
 async function main() {
@@ -134,19 +175,22 @@ async function main() {
 
   const rawRows = await fetchSheetRows();
 
-  const items = sortItems(
-    rawRows
-      .map(normalizeRow)
-      .filter(isValidItem)
-  ).map(stripInternalFields);
+  const normalizedItems = rawRows.map(normalizeRow);
+  const validItems = normalizedItems.filter(isValidItem);
+  const dedupedItems = dedupeItems(validItems);
+  const sortedItems = sortItems(dedupedItems).map(stripInternalFields);
 
   fs.writeFileSync(
-    path.join(DOCS_DIR, "search-data.json"),
-    JSON.stringify(items, null, 2),
+    OUTPUT_PATH,
+    JSON.stringify(sortedItems, null, 2),
     "utf8"
   );
 
   console.log("search-data.json 생성 완료");
+  console.log(`rawRows: ${rawRows.length}`);
+  console.log(`validItems: ${validItems.length}`);
+  console.log(`dedupedItems: ${dedupedItems.length}`);
+  console.log(`finalItems: ${sortedItems.length}`);
 }
 
 main().catch((error) => {
