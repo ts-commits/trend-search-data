@@ -35,6 +35,27 @@
     "updatedAt": "2026-04-08"
   },
   {
+    "id": "gaming-014",
+    "priority": 3,
+    "title": "2026년 3월 인기 모바일 게임 순위",
+    "year": "2026",
+    "source": "모바일인덱스",
+    "url": "https://www.igaworksblog.com/post/reports-mobilegame-chart-2603",
+    "type": "아티클",
+    "category": [
+      "업종 트렌드_게임"
+    ],
+    "summary": "2026년 2월 기준 인기 모바일 게임 TOP 10, 월간 게임 매출 TOP 10 데이터를 제공합니다.",
+    "tags": [],
+    "keywords": [
+      "게임",
+      "모바일게임",
+      "게임매출",
+      "게임 순위"
+    ],
+    "updatedAt": "2026-04-01"
+  },
+  {
     "id": "gaming-002",
     "priority": 3,
     "title": "2025 게임이용자 실태조사",
@@ -161,6 +182,31 @@
       "마케팅",
       "일정",
       "캘린더"
+    ],
+    "updatedAt": "2026-01-01"
+  },
+  {
+    "id": "gaming-012",
+    "priority": 3,
+    "title": "2026년 게임 현황: 모바일·PC·콘솔 트렌드",
+    "year": "2026",
+    "source": "센서타워",
+    "url": "https://sensortower.com/ko/blog/state-of-gaming-2026-KR",
+    "type": "보고서",
+    "category": [
+      "업종 트렌드_게임"
+    ],
+    "summary": "모바일, PC, 콘솔을 아우르는 크로스 플랫폼 관점에서 게임 산업을 조망한 보고서입니다. 2025년 총 게임 다운로드 수, 모바일 게임 시장 연간 트렌드, 유튜브 광고 지출 비중 등을 확인할 수 있습니다.",
+    "tags": [
+      "글로벌"
+    ],
+    "keywords": [
+      "게임",
+      "게임 트렌드",
+      "모바일게임",
+      "콘솔",
+      "스팀",
+      "글로벌 게임"
     ],
     "updatedAt": "2026-01-01"
   },
@@ -363,6 +409,32 @@
       "플랫폼 통합"
     ],
     "updatedAt": "2026-01-01"
+  },
+  {
+    "id": "gaming-013",
+    "priority": 2,
+    "title": "2026년 모바일 게임 장르 트렌드: 개발자를 위한 지역별 인사이트",
+    "year": "2026",
+    "source": "games.gg",
+    "url": "https://games.gg/ko/news/2026%EB%85%84-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B2%8C%EC%9E%84-%EC%9E%A5%EB%A5%B4-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A7%80%EC%97%AD%EB%B3%84-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8/",
+    "type": "아티클",
+    "category": [
+      "업종 트렌드_게임"
+    ],
+    "summary": "2026년 모바일 게임 트렌드를 지역별로 분석한 자료입니다. RPG 게임의 아시아 강세, 북미 캐주얼 성장 등 이용자 확보 및 유지 전략에 대한 인사이트를 제공합니다ㅏ.",
+    "tags": [
+      "글로벌"
+    ],
+    "keywords": [
+      "게임",
+      "글로벌게임",
+      "모바일게임",
+      "rpg",
+      "게임 인사이트",
+      "게임 장르",
+      "인기 게임"
+    ],
+    "updatedAt": "2026-04-01"
   },
   {
     "id": "marketingconsumer-012",
@@ -1601,21 +1673,22 @@
     "title": "2025 로코노미 활용 식품 관련 U&A 조사",
     "year": "2025",
     "source": "트렌드모니터",
-    "url": "https://trendmonitor.co.kr/tmweb/trend/allTrend/detail.do?bIdx=3237&code=0201&trendType=CKOREA&prevMonth=&currentPage=1",
+    "url": "https://trendmonitor.co.kr/tmweb/trend/allTrend/detail.do?bIdx=3244&code=0301&trendType=CKOREA",
     "type": "보고서",
     "category": [
       "업종 트렌드_식음료"
     ],
-    "summary": "대형 프랜차이즈가 주도하는 지역 상생형 식품 소비가 K-푸드의 새로운 경쟁력으로 부상하는 흐름을 분석한 자료입니다.",
+    "summary": "국내 여행 관심도 평가, 국내 여행지 방문 경험 및 '로코노미' 식품에 대한 인지와 구매 경험 등을 조사한 자료입니다.",
     "tags": [
       "통계·조사"
     ],
     "keywords": [
       "로코노미",
-      "지역 상생",
-      "K푸드",
-      "프랜차이즈",
-      "식품 소비"
+      "식음료",
+      "특산품",
+      "여행",
+      "가치소비",
+      "k푸드"
     ],
     "updatedAt": "2026-01-01"
   },
@@ -1750,14 +1823,14 @@
     "category": [
       "업종 트렌드_식음료"
     ],
-    "summary": "편의점이 단순 구매처를 넘어 브랜드 놀이터로 진화하는 이용 행태와 이색 콜라보 제품에 대한 소비자 반응을 분석한 자료입니다.",
+    "summary": "편의점 이용 경험, 편의점 제품 관련 인식 평가와 콜라보레이션 제품 관련 인식을 조사한 자료입니다.",
     "tags": [
       "통계·조사"
     ],
     "keywords": [
       "편의점",
-      "콜라보 제품",
-      "소비자 반응",
+      "콜라보",
+      "소비자",
       "브랜드 경험",
       "유통 트렌드"
     ],
