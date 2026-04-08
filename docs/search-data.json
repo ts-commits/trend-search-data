@@ -56,50 +56,6 @@
     "updatedAt": "2026-04-01"
   },
   {
-    "id": "gaming-002",
-    "priority": 3,
-    "title": "2025 게임이용자 실태조사",
-    "year": "2025",
-    "source": "한국콘텐츠진흥원",
-    "url": "https://www.kocca.kr/shortUrl/fzBq",
-    "type": "보고서",
-    "category": [
-      "업종 트렌드_게임"
-    ],
-    "summary": "국내 거주 만 10세에서 64세 국민을 대상으로 게임 이용 현황과 행태를 분석한 자료입니다. 전체 게임 이용률, 플랫폼별 이용률, 플랫폼별 이용 행태를 확인할 수 있습니다.",
-    "tags": [],
-    "keywords": [
-      "게임 이용자",
-      "게임 이용률",
-      "플랫폼별 이용",
-      "게임 행태",
-      "이용자 조사"
-    ],
-    "updatedAt": "2026-01-01"
-  },
-  {
-    "id": "gaming-001",
-    "priority": 3,
-    "title": "2025 대한민국 게임백서",
-    "year": "2025",
-    "source": "한국콘텐츠진흥원",
-    "url": "https://www.kocca.kr/kocca/bbs/view/B0000146/2011091.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useYn=&menuNo=204154&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&ufSetting=&recovery=&option1=&option2=&year=&morePage=&qtp=&domainId=&sortCode=&pageIndex=1",
-    "type": "보고서",
-    "category": [
-      "업종 트렌드_게임"
-    ],
-    "summary": "국내외 게임 산업의 통계 현황을 진단하고 플랫폼 다변화와 AI 기술 도입 등 급변하는 시장의 성장 동력을 분석한 자료입니다.",
-    "tags": [],
-    "keywords": [
-      "게임 산업",
-      "게임 시장",
-      "플랫폼",
-      "AI 게임",
-      "산업 통계"
-    ],
-    "updatedAt": "2026-01-01"
-  },
-  {
     "id": "market-001",
     "priority": 3,
     "title": "2025 방송통신광고비조사 보고서",
@@ -435,6 +391,50 @@
       "인기 게임"
     ],
     "updatedAt": "2026-04-01"
+  },
+  {
+    "id": "gaming-002",
+    "priority": 2,
+    "title": "2025 게임이용자 실태조사",
+    "year": "2025",
+    "source": "한국콘텐츠진흥원",
+    "url": "https://www.kocca.kr/shortUrl/fzBq",
+    "type": "보고서",
+    "category": [
+      "업종 트렌드_게임"
+    ],
+    "summary": "국내 거주 만 10세에서 64세 국민을 대상으로 게임 이용 현황과 행태를 분석한 자료입니다. 전체 게임 이용률, 플랫폼별 이용률, 플랫폼별 이용 행태를 확인할 수 있습니다.",
+    "tags": [],
+    "keywords": [
+      "게임 이용자",
+      "게임 이용률",
+      "플랫폼별 이용",
+      "게임 행태",
+      "이용자 조사"
+    ],
+    "updatedAt": "2026-01-01"
+  },
+  {
+    "id": "gaming-001",
+    "priority": 2,
+    "title": "2025 대한민국 게임백서",
+    "year": "2025",
+    "source": "한국콘텐츠진흥원",
+    "url": "https://www.kocca.kr/kocca/bbs/view/B0000146/2011091.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useYn=&menuNo=204154&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&ufSetting=&recovery=&option1=&option2=&year=&morePage=&qtp=&domainId=&sortCode=&pageIndex=1",
+    "type": "보고서",
+    "category": [
+      "업종 트렌드_게임"
+    ],
+    "summary": "국내외 게임 산업의 통계 현황을 진단하고 플랫폼 다변화와 AI 기술 도입 등 급변하는 시장의 성장 동력을 분석한 자료입니다.",
+    "tags": [],
+    "keywords": [
+      "게임 산업",
+      "게임 시장",
+      "플랫폼",
+      "AI 게임",
+      "산업 통계"
+    ],
+    "updatedAt": "2026-01-01"
   },
   {
     "id": "marketingconsumer-012",
@@ -1554,28 +1554,6 @@
     "updatedAt": "2026-01-01"
   },
   {
-    "id": "gaming-007",
-    "priority": 1,
-    "title": "2026 게임 마케팅 트렌드 : 상반기 주요 신작 정리",
-    "year": "2026",
-    "source": "포스타입",
-    "url": "https://openads.co.kr/content/contentDetail?contsId=18607",
-    "type": "아티클",
-    "category": [
-      "업종 트렌드_게임"
-    ],
-    "summary": "2026년 상반기 국내 게임 시장과 주요 신작을 바탕으로 게임 이용자 변화, AI, BM, 플랫폼 확장 흐름을 짚은 게임 마케팅 트렌드 정리 자료입니다.",
-    "tags": [],
-    "keywords": [
-      "게임 마케팅",
-      "신작 게임",
-      "AI 게임",
-      "BM",
-      "플랫폼 확장"
-    ],
-    "updatedAt": "2026-01-01"
-  },
-  {
     "id": "marketingconsumer-011",
     "priority": 1,
     "title": "2026년 주목할 만한 소비 트렌드 키워드 WISE UP",
@@ -1882,6 +1860,28 @@
       "부동산 전망",
       "설문조사",
       "금융 데이터"
+    ],
+    "updatedAt": "2026-01-01"
+  },
+  {
+    "id": "gaming-007",
+    "priority": 0,
+    "title": "2026 게임 마케팅 트렌드 : 상반기 주요 신작 정리",
+    "year": "2026",
+    "source": "포스타입",
+    "url": "https://openads.co.kr/content/contentDetail?contsId=18607",
+    "type": "아티클",
+    "category": [
+      "업종 트렌드_게임"
+    ],
+    "summary": "2026년 상반기 국내 게임 시장과 주요 신작을 바탕으로 게임 이용자 변화, AI, BM, 플랫폼 확장 흐름을 짚은 게임 마케팅 트렌드 정리 자료입니다.",
+    "tags": [],
+    "keywords": [
+      "게임 마케팅",
+      "신작 게임",
+      "AI 게임",
+      "BM",
+      "플랫폼 확장"
     ],
     "updatedAt": "2026-01-01"
   },
