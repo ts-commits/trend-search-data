@@ -35,6 +35,28 @@
     "updatedAt": "2026-04-08"
   },
   {
+    "id": "gaming-001",
+    "priority": 3,
+    "title": "2025 대한민국 게임백서(26.03 발간)",
+    "year": "2026",
+    "source": "한국콘텐츠진흥원",
+    "url": "https://www.kocca.kr/kocca/bbs/view/B0000146/2011091.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useYn=&menuNo=204154&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&ufSetting=&recovery=&option1=&option2=&year=&morePage=&qtp=&domainId=&sortCode=&pageIndex=1",
+    "type": "보고서",
+    "category": [
+      "업종 트렌드_게임"
+    ],
+    "summary": "국내외 게임 산업의 통계 현황을 진단하고 플랫폼 다변화와 AI 기술 도입 등 급변하는 시장의 성장 동력을 분석한 자료입니다.",
+    "tags": [],
+    "keywords": [
+      "게임 산업",
+      "게임 시장",
+      "플랫폼",
+      "AI 게임",
+      "산업 통계"
+    ],
+    "updatedAt": "2026-04-01"
+  },
+  {
     "id": "gaming-014",
     "priority": 3,
     "title": "2026년 3월 인기 모바일 게임 순위",
@@ -411,28 +433,6 @@
       "플랫폼별 이용",
       "게임 행태",
       "이용자 조사"
-    ],
-    "updatedAt": "2026-01-01"
-  },
-  {
-    "id": "gaming-001",
-    "priority": 2,
-    "title": "2025 대한민국 게임백서",
-    "year": "2025",
-    "source": "한국콘텐츠진흥원",
-    "url": "https://www.kocca.kr/kocca/bbs/view/B0000146/2011091.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useYn=&menuNo=204154&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&ufSetting=&recovery=&option1=&option2=&year=&morePage=&qtp=&domainId=&sortCode=&pageIndex=1",
-    "type": "보고서",
-    "category": [
-      "업종 트렌드_게임"
-    ],
-    "summary": "국내외 게임 산업의 통계 현황을 진단하고 플랫폼 다변화와 AI 기술 도입 등 급변하는 시장의 성장 동력을 분석한 자료입니다.",
-    "tags": [],
-    "keywords": [
-      "게임 산업",
-      "게임 시장",
-      "플랫폼",
-      "AI 게임",
-      "산업 통계"
     ],
     "updatedAt": "2026-01-01"
   },
