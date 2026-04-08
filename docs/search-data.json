@@ -523,6 +523,28 @@
     "updatedAt": "2026-01-01"
   },
   {
+    "id": "retail-003",
+    "priority": 2,
+    "title": "2026 물류시장 전망 세미나",
+    "year": "2026",
+    "source": "대한상공회의소",
+    "url": "https://www.korcham.net/nCham/Service/Economy/appl/KcciReportDetail.asp?SEQ_NO_C010=20120943794&CHAM_CD=B001",
+    "type": "사이트",
+    "category": [
+      "업종 트렌드_유통"
+    ],
+    "summary": "2026년 유통산업 전망과 업태별 전망을 정리한 자료입니다.",
+    "tags": [],
+    "keywords": [
+      "유통산업 전망",
+      "리테일 전망",
+      "업태 분석",
+      "유통 시장",
+      "산업 전망"
+    ],
+    "updatedAt": "2026-01-01"
+  },
+  {
     "id": "marketingconsumer-009",
     "priority": 2,
     "title": "2026 소비 트렌드 HORSE POWER",
@@ -629,28 +651,6 @@
       "K푸드",
       "건강 트렌드",
       "식당 운영"
-    ],
-    "updatedAt": "2026-01-01"
-  },
-  {
-    "id": "retail-003",
-    "priority": 2,
-    "title": "2026 유통산업 전망 세미나",
-    "year": "2026",
-    "source": "대한상공회의소",
-    "url": "https://www.korcham.net/nCham/Service/Economy/appl/KcciReportDetail.asp?SEQ_NO_C010=20120943794&CHAM_CD=B001",
-    "type": "사이트",
-    "category": [
-      "업종 트렌드_유통"
-    ],
-    "summary": "2026년 유통산업 전망과 업태별 전망을 정리한 자료입니다.",
-    "tags": [],
-    "keywords": [
-      "유통산업 전망",
-      "리테일 전망",
-      "업태 분석",
-      "유통 시장",
-      "산업 전망"
     ],
     "updatedAt": "2026-01-01"
   },
