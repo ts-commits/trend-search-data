@@ -2221,7 +2221,9 @@
       "업종 트렌드_주거/가구"
     ],
     "summary": "주택 경기 침체와 고물가라는 위기 속에서도 기술과 효율성을 통해 돌파구를 찾는 2026 전자상거래 가구 및 홈 인테리어 시장의 생존 전략을 분석한 자료입니다.",
-    "tags": [],
+    "tags": [
+      "글로벌"
+    ],
     "keywords": [
       "홈 인테리어",
       "가구 시장",
@@ -3248,28 +3250,6 @@
       "빈티지",
       "홈스타일링",
       "공간 디자인"
-    ],
-    "updatedAt": "2026-01-01"
-  },
-  {
-    "id": "mobility-010",
-    "priority": 0,
-    "title": "전기차의 미래: 변화하는 산업, 혁신적인 기술 트렌드 리포트",
-    "year": "2023",
-    "source": "다쏘시스템",
-    "url": "https://discover.3ds.com/sites/default/files/2023-12/report-advancing-the-future-of-electric-vehicles-ko.pdf",
-    "type": "보고서",
-    "category": [
-      "업종 트렌드_수송"
-    ],
-    "summary": "EV 시장의 주요 동향과 스타트업 및 R&D가 나아가고 있는 방향에 대해 알 수 있습니다.",
-    "tags": [],
-    "keywords": [
-      "전기차",
-      "EV 시장",
-      "자동차 기술",
-      "스타트업",
-      "연구개발"
     ],
     "updatedAt": "2026-01-01"
   },
