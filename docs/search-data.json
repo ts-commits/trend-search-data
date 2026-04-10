@@ -1,5 +1,32 @@
 [
   {
+    "id": "retail-006",
+    "priority": 3,
+    "title": "주요 유통업체 매출 동향",
+    "year": "-",
+    "source": "지표누리 e나라지표",
+    "url": "https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1142",
+    "type": "사이트",
+    "category": [
+      "업종 트렌드_유통"
+    ],
+    "summary": "대형마트와 백화점의 연/월별 전체 매출 증감률, 상품군별 매출 증감률 추이를 확인할 수 있습니다.",
+    "tags": [
+      "공공자료",
+      "통계·조사"
+    ],
+    "keywords": [
+      "유통업체",
+      "유통 매출",
+      "백화점",
+      "대형마트",
+      "마트",
+      "유통업계",
+      "통계"
+    ],
+    "updatedAt": "2026-04-10"
+  },
+  {
     "id": "user-019",
     "priority": 3,
     "title": "2026 인터넷 이용자 조사(NPR) 주요 발견점",
