@@ -1608,6 +1608,33 @@
     "updatedAt": "2026-04-10"
   },
   {
+    "id": "fashion&beauty-017",
+    "priority": 0,
+    "title": "2026 럭셔리 소비자 리서치 리포트",
+    "year": "2026",
+    "source": "아지앙스",
+    "url": "https://share.asiance.com/download/e2e4a5b20e0211f18f290a156717bb57?key=$2y$10$hVIf7rFFzqAoGonbWEh1X.sH1VFjNPIHYDCJOVsr6MSEFwHO/GtNu",
+    "type": "보고서",
+    "category": [
+      "업종 트렌드_패션"
+    ],
+    "summary": "2025년에 명품 제품을 구매한 800명의 한국 소비자를 대상으로 설문조사를 실시하고, 이에 대한 인사이트를 제공하는 리포트의 요약 버전입니다. 한국 명품 시장의 최신 소비 행태와 패턴을 파악할 수 있습니다. 명품 정보 탐색 채널, 오프라인 경험, 구매 기준, 구매 채널, 온라인 구매 플랫폼에 대한 순위를 확인해보세요.",
+    "tags": [
+      "통계·조사",
+      "영문"
+    ],
+    "keywords": [
+      "명품",
+      "럭셔리",
+      "패션",
+      "잡화",
+      "소비자",
+      "설문",
+      "소비"
+    ],
+    "updatedAt": "2026-02-23"
+  },
+  {
     "id": "marketingconsumer-008",
     "priority": 0,
     "title": "10 Influencer Marketing Stats You Need to Know in 2026",
@@ -4009,9 +4036,10 @@
       "글로벌 시장",
       "미디어 트렌드"
     ],
-    "summary": "글로벌 디지털 이용 트렌드를 정리한 보고서입니다.(영문자료)",
+    "summary": "글로벌 디지털 이용 트렌드를 정리한 보고서입니다.",
     "tags": [
-      "글로벌"
+      "글로벌",
+      "영문"
     ],
     "keywords": [
       "digital 2026",
